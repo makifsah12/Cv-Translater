@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009788"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#009788"
+        tools:context=".EgitimPage">
+
+        <EditText
+            android:id="@+id/lisanstext1"
+            android:layout_width="3dp"
+            android:layout_height="19dp"
+            android:background="@drawable/buttonshape"
+            android:hint="Lise-Üniversite"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:visibility="invisible" />
+
+        <EditText
+            android:id="@+id/lisanstext2"
+            android:layout_width="19dp"
+            android:layout_height="16dp"
+            android:background="@drawable/buttonshape"
+            android:hint="Lise-Üniversite"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:visibility="invisible" />
+
+        <EditText
+            android:id="@+id/bolumtext1"
+            android:layout_width="2dp"
+            android:layout_height="15dp"
+            android:layout_marginEnd="184dp"
+            android:background="@drawable/buttonshape"
+            android:hint="Lise-Üniversite"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:visibility="invisible" />
+
+        <EditText
+            android:id="@+id/bolumtext2"
+            android:layout_width="2dp"
+            android:layout_height="2dp"
+            android:layout_marginEnd="260dp"
+            android:background="@drawable/buttonshape"
+            android:hint="Lise-Üniversite"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:visibility="invisible" />
+
+        <EditText
+            android:id="@+id/kolej1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/buttonshape"
+            android:hint="Lise-Üniversite"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/bolum1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="110dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/spinnerbackground"
+            android:paddingBottom="13dp"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <Spinner
+            android:id="@+id/lisans1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="160dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/spinnerbackground"
+            android:paddingBottom="13dp"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <EditText
+            android:id="@+id/derece1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="210dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/buttonshape"
+            android:hint="Derece"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/baslangıc1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="260dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="225dp"
+            android:background="@drawable/buttonshape"
+            android:hint="Başlangıç Tarihi"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/bitis1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="260dp"
+            android:layout_marginLeft="225dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/buttonshape"
+            android:hint="Bitiş Tarihi"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/kolej2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="360dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/buttonshape"
+            android:hint="Lise-Üniversite"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/bolum2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="410dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/spinnerbackground"
+            android:paddingBottom="13dp"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <Spinner
+            android:id="@+id/lisans2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="460dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/spinnerbackground"
+            android:paddingBottom="13dp"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <EditText
+            android:id="@+id/derece2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="510dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/buttonshape"
+            android:hint="Derece"
+            android:textAlignment="center"
+            android:textSize="20sp"/>
+
+        <EditText
+            android:id="@+id/baslangıc2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="560dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="225dp"
+            android:background="@drawable/buttonshape"
+            android:hint="Başlangıç Tarihi"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/bitis2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="560dp"
+            android:layout_marginLeft="225dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/buttonshape"
+            android:hint="Bitiş Tarihi"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/btnKaydet3"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="620dp"
+            android:layout_marginLeft="320dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/buttonshape_small"
+            android:text="✓"
+            android:textAllCaps="false"
+            android:textSize="30sp" />
+
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="medenidurum" >
+        <item>Medeni Durum Secin</item>
+        <item>Evli</item>
+        <item>Bekar</item>
+    </string-array>
+</resources>

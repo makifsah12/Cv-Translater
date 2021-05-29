@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="yabancidildurumu" >
+        <item>Yabanci Dil Secin</item>
+        <item>Almanca</item>
+        <item>Arapça</item>
+        <item>Azerice</item>
+        <item>Bulgarca</item>
+        <item>Çince</item>
+        <item>Farsça</item>
+        <item>Fince</item>
+        <item>Fransızca</item>
+        <item>Hollandaca</item>
+        <item>İbranice</item>
+        <item>İngilizce</item>
+        <item>İspanyolca</item>
+        <item>İsveçce</item>
+        <item>İtalyanca</item>
+        <item>Japonca</item>
+        <item>Korece</item>
+        <item>Lehçe</item>
+        <item>Macarca</item>
+        <item>Norveçce</item>
+        <item>Portekizce</item>
+        <item>Romence</item>
+        <item>Rusça</item>
+        <item>Tayca</item>
+        <item>Yunanca</item>
+
+    </string-array>
+    <string-array name="hobidurumu" >
+        <item>Hobi Seciniz</item>
+        <item>3D Baskı</item>
+        <item>Açık Havada Kitap Okuma</item>
+        <item>Ağırlık Çalışması</item>
+        <item>Ağırlık Kaldırma</item>
+        <item>Ahşap Oymacılığı</item>
+        <item>Airsoft</item>
+        <item>Akrobasi</item>
+        <item>Aksiyon Figürü</item>
+        <item>Akvaristlik</item>
+        <item>Akvaryum Peyzajı</item>
+        <item>Alışveriş Yapmak</item>
+        <item>Altın Maden Arama</item>
+        <item>Amatör Astronomi</item>
+        <item>Amerikan Futbolu</item>
+        <item>Amigo</item>
+        <item>Animasyon</item>
+        <item>Antika</item>
+        <item>Araba Yarışı</item>
+        <item>Araç Restorasyonu</item>
+        <item>Araç Sabitleme Yapı</item>
+        <item>Arıcılık</item>
+        <item>Artistik Patinaj</item>
+        <item>Astronomi</item>
+        <item>Ata Binmek</item>
+        <item>Atıcılık</item>
+        <item>Atış Spor</item>
+        <item>Avcılık</item>
+        <item>Avustralya Futbolu</item>
+        <item>Axe Atma</item>
+        <item>Ayakkabı</item>
+        <item>Ayakkabıcılık</item>
+        <item>Badminton</item>
+        <item>Bahçıvanlık</item>
+        <item>Balık Tutma</item>
+        <item>Bando</item>
+        <item>Basketbol Oynamak</item>
+        <item>Baton Twirling</item>
+        <item>Bayrak Futbol</item>
+        <item>Beyzbol Oynamak</item>
+        <item>Bıçak Atma</item>
+        <item>Bıçak Toplama</item>
+        <item>Bıçak Yapma</item>
+        <item>Bilardo</item>
+        <item>Bilet Toplama</item>
+        <item>Bilgisayar Programlama</item>
+        <item>Bina</item>
+        <item>Binicilik</item>
+        <item>Birleşmiş Milletler Örneği</item>
+        <item>Bisiklet Sürmek</item>
+        <item>Blog Yazmak</item>
+        <item>BMX</item>
+        <item>Boks</item>
+        <item>Bonsai</item>
+        <item>Bowling</item>
+        <item>Boyama</item>
+        <item>Bozuk Para Biriktirmek</item>
+        <item>Böcek Toplama</item>
+        <item>Breakdancing</item>
+        <item>Brezilya Jiujitsusu</item>
+        <item>Budama Sanatı</item>
+        <item>Bulmacalar</item>
+        <item>Buz Hokeyi</item>
+        <item>Buz Pateni</item>
+        <item>Cam Üfleme</item>
+        <item>Cartophily (Kart Toplama)</item>
+        <item>Clothesmaking</item>
+        <item>Cosplaying</item>
+        <item>Couponing</item>
+        <item>Crocheting</item>
+        <item>Çapraz Bulmaca</item>
+        <item>Çay Torba Toplama</item>
+        <item>Çekim</item>
+        <item>Çiçek Düzenleme</item>
+        <item>Çiçek Toplama Ve Pres</item>
+        <item>Çiçek Yetiştirme</item>
+        <item>Çim Hokeyi</item>
+        <item>Çin Dominosu</item>
+        <item>Çizgi Roman Toplama</item>
+        <item>Çizim</item>
+        <item>Çömlekçilik</item>
+        <item>Dağ Bisikleti</item>
+        <item>Dağcılık</item>
+        <item>Dans</item>
+        <item>Dantel Yapmak</item>
+        <item>Dart</item>
+        <item>Deltiology (Kartpostal Toplama)</item>
+        <item>Demircilik</item>
+        <item>Deney Yapma</item>
+        <item>Deniz Cam Toplama</item>
+        <item>Deri İşçiliği</item>
+        <item>Die-Cast Oyuncak</item>
+        <item>Dijital Sanatlar</item>
+        <item>Dikiş</item>
+        <item>Disk Golf</item>
+        <item>Distro Atlamalı</item>
+        <item>Djing</item>
+        <item>Doğa Yürüyüşü</item>
+        <item>Dokuma</item>
+        <item>Doldurulmuş Oyuncak Toplama</item>
+        <item>Dövüş Sanatları</item>
+        <item>Drama</item>
+        <item>Duvar Yazısı</item>
+        <item>Düğüm Atmak</item>
+        <item>Efemera Toplama</item>
+        <item>Ekmek Yapımı</item>
+        <item>Elektronik</item>
+        <item>Eleman Toplama</item>
+        <item>Eski Gelenekler</item>
+        <item>Eskiz</item>
+        <item>Eskrim</item>
+        <item>Esports</item>
+        <item>Ev Geliştirme</item>
+        <item>Ev Yapımı İçki</item>
+        <item>Fantezi Spor</item>
+        <item>Fırında Pişirme</item>
+        <item>Filateli</item>
+        <item>Film İzlemekmek</item>
+        <item>Footbag</item>
+        <item>Fosil Avcılık</item>
+        <item>Fossicking</item>
+        <item>Fotoğrafçılık</item>
+        <item>Fusilately (TELEFON Toplama)</item>
+        <item>Futbol Oynamak</item>
+        <item>Gelişmekte Video Oyun</item>
+        <item>Geocaching</item>
+        <item>Git</item>
+        <item>Golf</item>
+        <item>Gongoozling</item>
+        <item>Grafik Dizayn</item>
+        <item>Gunsmithing</item>
+        <item>Güneşlenme</item>
+        <item>Günlük Kaydı</item>
+        <item>Güreş</item>
+        <item>Güzellik Yarışmasında</item>
+        <item>Hacklemek</item>
+        <item>Hava Sporları</item>
+        <item>Hayalet Avlamak</item>
+        <item>Hayvan Fantezi</item>
+        <item>Hentbol</item>
+        <item>Herbalism</item>
+        <item>Herp Tutma</item>
+        <item>Herping</item>
+        <item>Herping</item>
+        <item>Hız Pateni</item>
+        <item>Hobi Horsing</item>
+        <item>Hula Boğmaca</item>
+        <item>İçecek Karıştırma</item>
+        <item>İçeriye</item>
+        <item>İskandinav Pateni</item>
+        <item>Japon Kağıt Katlama Sanatı</item>
+        <item>Japon Sporu</item>
+        <item>Jimnastik</item>
+        <item>Jonglörlük</item>
+        <item>Judo</item>
+        <item>Jukskei</item>
+        <item>Kabaddi</item>
+        <item>Kabare</item>
+        <item>Kağıt Oymacılığı</item>
+        <item>Kahve Kavurma</item>
+        <item>Kaligrafi</item>
+        <item>Kamp Yapmak</item>
+        <item>Kanaviçe</item>
+        <item>Kano</item>
+        <item>Kano Sporu</item>
+        <item>Karaoke</item>
+        <item>Karate</item>
+        <item>Kart Oyunları</item>
+        <item>Kart Yarışı</item>
+        <item>Kaya Dengeleme</item>
+        <item>Kaya Tırmanışı</item>
+        <item>Kayak Yapma</item>
+        <item>Kaykay Yapmak</item>
+        <item>Kelebek Gözlemciliği</item>
+        <item>Kendama</item>
+        <item>Kentsel Keşif</item>
+        <item>Keşfe Çıkma</item>
+        <item>Kısa Dalga Dinleme</item>
+        <item>Kilit Kırma</item>
+        <item>Kitap Restorasyon</item>
+        <item>Kitap Tartışma Kulüpleri</item>
+        <item>Kitap Toplama</item>
+        <item>Klasik Arabalar</item>
+        <item>Kombucha Demleme</item>
+        <item>Kompost</item>
+        <item>Koşu Yapmak</item>
+        <item>Köpek Spor</item>
+        <item>Kriket</item>
+        <item>Kriptografi</item>
+        <item>Kum Sanatı</item>
+        <item>Kurul Spor</item>
+        <item>Kuş Gözlemciliği</item>
+        <item>Kuş Gözlemciliği</item>
+        <item>Kürek Veya Kürek</item>
+        <item>Langırt</item>
+        <item>Larping</item>
+        <item>Lazer Etiketi</item>
+        <item>Lego Bina</item>
+        <item>Letterboxing</item>
+        <item>Longboarding</item>
+        <item>Lotology (Piyango Bileti Toplama)</item>
+        <item>Maden</item>
+        <item>Mağaracılık</item>
+        <item>Makrome</item>
+        <item>Makyaj</item>
+        <item>Mantar Av / Mikolojisi</item>
+        <item>Masa Tenisi</item>
+        <item>Meditasyon</item>
+        <item>Metal İşleme</item>
+        <item>Metal Tespit</item>
+        <item>Meteoroloji</item>
+        <item>Mıknatıs Balıkçılık</item>
+        <item>Mikroskopla İnceleme</item>
+        <item>Mineral Toplama</item>
+        <item>Mobilya Bina</item>
+        <item>Moda</item>
+        <item>Moda Tasarımı</item>
+        <item>Model Mühendisliği</item>
+        <item>Model Uçaklar</item>
+        <item>Model Yapımı</item>
+        <item>Motor Sporları</item>
+        <item>Mum Yapımı</item>
+        <item>Müzik Dinlemek</item>
+        <item>Müzik Enstrümanlarını Çalmak</item>
+        <item>Nakış</item>
+        <item>Netbol</item>
+        <item>Nihai Frizbi</item>
+        <item>Okçuluk</item>
+        <item>Okuma</item>
+        <item>Oryantiring</item>
+        <item>Otomatik Audiophilia</item>
+        <item>Oya İşi</item>
+        <item>Oyuncak</item>
+        <item>Oyuncak Bebekler</item>
+        <item>Oyunculuk</item>
+        <item>Öğrenme</item>
+        <item>Örme</item>
+        <item>Paintball</item>
+        <item>Paraşütlü Atlama</item>
+        <item>Parfüm</item>
+        <item>Paten Yarışı</item>
+        <item>Peynir Yapma</item>
+        <item>Phillumeny</item>
+        <item>Plaj Voleybolu</item>
+        <item>Podcast Barındırma</item>
+        <item>Podcast Dinleme</item>
+        <item>Poi</item>
+        <item>Poker</item>
+        <item>Polo</item>
+        <item>Powerlifting</item>
+        <item>Pratik Şakalar</item>
+        <item>Pul Koleksiyonculuğu</item>
+        <item>Puzzle Demek</item>
+        <item>Radyo Kumandalı Araba Yarışı</item>
+        <item>Rafting</item>
+        <item>Ragbi</item>
+        <item>Raketbol</item>
+        <item>Rappelling</item>
+        <item>Rapping</item>
+        <item>Raylı Taşıma Modelleme</item>
+        <item>Refinishing</item>
+        <item>Rekabetçi Hobiler</item>
+        <item>Renk Koruyucu</item>
+        <item>Robot Mücadele</item>
+        <item>Rubik Küp</item>
+        <item>Rugby Ligi Futbol</item>
+        <item>Sanat Toplama</item>
+        <item>Satranç</item>
+        <item>Scrapbooking</item>
+        <item>Scutelliphily</item>
+        <item>Seashell Toplama</item>
+        <item>Sebze Yetiştiriciliği</item>
+        <item>Serbest Stil Futbol</item>
+        <item>Sergi Matkap</item>
+        <item>Ses Cihazları Meraklısı</item>
+        <item>Seyahat</item>
+        <item>Shogi</item>
+        <item>Sıkıştırılmış Çiçek Zanaat</item>
+        <item>Sınavlar</item>
+        <item>Sinema Ve Film Hatıra Toplama</item>
+        <item>Skimboarding</item>
+        <item>Slacklining</item>
+        <item>Snowboard</item>
+        <item>Soapmaking</item>
+        <item>Softbol</item>
+        <item>Sosyal Medya</item>
+        <item>Sörf Yapmak</item>
+        <item>Speedcubing</item>
+        <item>Spor Yığma</item>
+        <item>Stand Up Komedi</item>
+        <item>Su Sporları</item>
+        <item>Suda Bitki Yetiştirme</item>
+        <item>Sutopu</item>
+        <item>Sürme</item>
+        <item>Şarap Yapımı</item>
+        <item>Şarkı Söyleme</item>
+        <item>Şecere</item>
+        <item>Şekerleme</item>
+        <item>Şekillendirici</item>
+        <item>Tahnitçilik</item>
+        <item>Tai Chi</item>
+        <item>Takı Yapımı</item>
+        <item>Talaşlı</item>
+        <item>Tartışma</item>
+        <item>Taş Atlama</item>
+        <item>Taş Toplama</item>
+        <item>Tekerlekli Paten</item>
+        <item>Tekerlekli Patenle Kaymak</item>
+        <item>Tekvando</item>
+        <item>Televizyon İzlemek</item>
+        <item>Temel Atlama</item>
+        <item>Tenis</item>
+        <item>Tenis Polo</item>
+        <item>Thrifting</item>
+        <item>Tırmanmak</item>
+        <item>Tırnak Sanatı</item>
+        <item>Toplayıcılık</item>
+        <item>Trainspotting</item>
+        <item>Triatlon</item>
+        <item>Tur Pateni</item>
+        <item>Tutanak Toplama</item>
+        <item>Tüplü Dalış</item>
+        <item>Uçak Lekelenme</item>
+        <item>Uçan Disk</item>
+        <item>Uçurtma Uçurmak</item>
+        <item>Urgan Araba</item>
+        <item>Uydu İzliyor</item>
+        <item>Video Düzenleme</item>
+        <item>Video Oyun Toplama</item>
+        <item>Video Oyunu</item>
+        <item>Videophilia</item>
+        <item>Vikipedi Düzenleme</item>
+        <item>Vinil Kayıtları</item>
+        <item>Vintage Giyim</item>
+        <item>Voleybol</item>
+        <item>Vücut Geliştirme</item>
+        <item>Worldbuilding</item>
+        <item>Yabancı Dil Öğrenme</item>
+        <item>Yaratıcı Yazarlık</item>
+        <item>Yelkencilik</item>
+        <item>Yemek Pişirme</item>
+        <item>Yoga</item>
+        <item>Yol Bisikleti</item>
+        <item>Yontuyorsun</item>
+        <item>Yorgancılık</item>
+        <item>Yo-Yoing</item>
+        <item>Yuva Araba Yarışı</item>
+        <item>Yüksek Güç Roket</item>
+        <item>Yürüme</item>
+        <item>Yürüyüş / Backpacking</item>
+        <item>Yüzme</item>
+        <item>Zencefilli Ev Yapımı</item>
+    </string-array>
+    <string-array name="dilseviye" >
+        <item>Seviye Seçin</item>
+        <item>Başlangıç</item>
+        <item>Orta</item>
+        <item>İyi</item>
+        <item>Çok iyi</item>
+    </string-array>
+</resources>

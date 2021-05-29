@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969755428166",
+    "firebase_url": "https://cv-translater-dd1b9.firebaseio.com",
+    "project_id": "cv-translater-dd1b9",
+    "storage_bucket": "cv-translater-dd1b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969755428166:android:6085462dc8112eee491147",
+        "android_client_info": {
+          "package_name": "com.example.cv_translater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969755428166-t1kie8r541ccd0f4suer5rej36f6j0bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYp4jCvS4wVrsTpCvsVtRUEvz79tVgYiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969755428166-t1kie8r541ccd0f4suer5rej36f6j0bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

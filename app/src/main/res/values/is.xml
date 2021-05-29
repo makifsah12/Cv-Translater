@@ -1,0 +1,1630 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="isdurumu" >
+        <item>İs Secimi Yapın</item>
+        <item>A Sınıfı İş Güvenliği Uzmanı</item>
+        <item>AB Proje Asistanı</item>
+        <item>AB Proje Geliştirme Uzmanı</item>
+        <item>Acente Temsilcisi</item>
+        <item>Acil Servis Hemşiresi</item>
+        <item>Acil Tıp Teknisyeni</item>
+        <item>Acil Tıp Uzmanı</item>
+        <item>Adli Tıp Uzmanı</item>
+        <item>Aerodinamik Mühendisi</item>
+        <item>Ağ Geliştirme Müdürü</item>
+        <item>Ağ Kurulum Mühendisi</item>
+        <item>Ağ Mimarı</item>
+        <item>Ağ Sistemleri Destek Mühendisi</item>
+        <item>Ağ ve Siber Güvenlik Uzmanı</item>
+        <item>Ağ Yöneticisi</item>
+        <item>Ağaç İşleri Endüstri Mühendisi</item>
+        <item>Ağaç İşleri Mühendisi</item>
+        <item>Ağaç İşleri Teknikeri</item>
+        <item>Ağır Vasıta Şoförü</item>
+        <item>Ahşap Doğrama Ustası</item>
+        <item>Ahşap Ustası</item>
+        <item>Aile Danışmanı</item>
+        <item>Aile Hekimi</item>
+        <item>Akademik Personel</item>
+        <item>Akademisyen</item>
+        <item>Aksesuar Tasarımcısı</item>
+        <item>Aktif Satış Danışmanı</item>
+        <item>Aktif Satış Elemanı</item>
+        <item>Aktif Satış Temsilcisi</item>
+        <item>Aktivasyon Elemanı</item>
+        <item>Aktivite Müdürü</item>
+        <item>Aktüer</item>
+        <item>Akustik Uzmanı</item>
+        <item>Alacak Takip Elemanı</item>
+        <item>Alakart Garson</item>
+        <item>Albay</item>
+        <item>Algoritma Geliştirme Mühendisi</item>
+        <item>Almanca Öğretmeni</item>
+        <item>Alternatif Kanal Geliştirme Uzmanı</item>
+        <item>Altyapı Mühendisi</item>
+        <item>Alüminyum Doğrama Ustası</item>
+        <item>Alüminyum Küpeşte ustası</item>
+        <item>Ambulans Hekimi</item>
+        <item>Ambulans Şoförü</item>
+        <item>Ameliyathane Hemşiresi</item>
+        <item>Ameliyathane Personeli</item>
+        <item>Analist</item>
+        <item>Analitik Crm Uzmanı</item>
+        <item>Analitik CRM Yöneticisi</item>
+        <item>Analitik Metod Geliştirme Uzmanı</item>
+        <item>Analitik Metod Validasyon Uzmanı</item>
+        <item>Analiz Teknikeri</item>
+        <item>Analiz Uzmanı</item>
+        <item>Analiz ve Raporlama Uzmanı</item>
+        <item>Anaokulu Müdürü</item>
+        <item>Anaokulu Öğretmeni</item>
+        <item>Anatomi Öğretmeni</item>
+        <item>Android Geliştirici</item>
+        <item>Anestezi Doktoru</item>
+        <item>Anestezi Hemşiresi</item>
+        <item>Anestezi Teknikeri</item>
+        <item>Anestezi Teknisyeni</item>
+        <item>Anestezi Uzmanı</item>
+        <item>Animasyon Sanatçısı</item>
+        <item>Animatör</item>
+        <item>Anjiyo Hemşiresi</item>
+        <item>Anjiyo Teknisyeni</item>
+        <item>Antrenör</item>
+        <item>Antrepo Müdürü</item>
+        <item>Araç Muayene Teknisyeni</item>
+        <item>Araç Muayene Uzmanı</item>
+        <item>Arama Motoru Optimizasyonu (SEO) Analisti</item>
+        <item>Arama Motoru Optimizasyonu (SEO) Danışmanı</item>
+        <item>Arama Motoru Optimizasyonu (SEO) Uzmanı</item>
+        <item>Arama Motoru Pazarlama (SEM) Uzmanı</item>
+        <item>Aranjör</item>
+        <item>Arapça Öğretmeni</item>
+        <item>Arapça Tercüman</item>
+        <item>Araştırma Geliştirme / Arge Müdürü</item>
+        <item>Araştırma Geliştirme / Arge Mühendisi</item>
+        <item>Araştırma Geliştirme / Arge Proje Mühendisi</item>
+        <item>Araştırma Geliştirme / Arge Proje Yöneticisi</item>
+        <item>Araştırma Geliştirme / Arge Sorumlusu</item>
+        <item>Araştırma Geliştirme / Arge Uzmanı</item>
+        <item>Araştırmacı</item>
+        <item>Arayüz Yazılım Uzmanı</item>
+        <item>AR-GE Mühendisi</item>
+        <item>AR-GE ve Kalite Uzmanı</item>
+        <item>Arkeolog</item>
+        <item>Armadör</item>
+        <item>Armatör</item>
+        <item>Arşiv Memuru</item>
+        <item>Arşiv Sorumlusu</item>
+        <item>Arşiv Uzmanı</item>
+        <item>Arşiv Yöneticisi</item>
+        <item>Asansör Ustası</item>
+        <item>Asfalt Plent Operatörü</item>
+        <item>Asistan</item>
+        <item>Asp.net Yazılım Mühendisi</item>
+        <item>Asteğmen</item>
+        <item>Astronomi Öğretmeni</item>
+        <item>Astsubay</item>
+        <item>Aşçı</item>
+        <item>Aşçıbaşı</item>
+        <item>Aviyonik Mühendisi</item>
+        <item>Aviyonik Teknisyeni</item>
+        <item>Avrupa Birliği Proje Uzmanı</item>
+        <item>Avukat</item>
+        <item>Avukat Katibi</item>
+        <item>Ayakkabı Tasarımcısı</item>
+        <item>Aydınlatma Tasarımcısı</item>
+        <item></item>
+        <item>B Sınıfı İş Güvenliği Uzmanı</item>
+        <item>Backoffice Müdürü</item>
+        <item>Bağlama Öğretmeni</item>
+        <item>Bahçıvan</item>
+        <item>Bakım Müdürü</item>
+        <item>Bakım Mühendisi</item>
+        <item>Bakım Onarım Mühendisi</item>
+        <item>Bakım Onarım Teknisyeni</item>
+        <item>Bakım Teknisyeni</item>
+        <item>Bale Öğretmeni</item>
+        <item>Banka Müdürü</item>
+        <item>Banka Müfettişi</item>
+        <item>Banka Personeli</item>
+        <item>Banka Şube Müdürü</item>
+        <item>Bankacılık İşlemleri Yetkilisi</item>
+        <item>Banket Müdürü</item>
+        <item>Banket Satış Yetkilisi</item>
+        <item>Banko Görevlisi</item>
+        <item>Barboy</item>
+        <item>Barista</item>
+        <item>Barista Eğitmeni</item>
+        <item>Barmen / Barmaid</item>
+        <item>Basın Danışmanı</item>
+        <item>Basın Müşaviri</item>
+        <item>Basın ve Halkla İlişkiler Müdürü</item>
+        <item>Basın ve Halkla İlişkiler Uzmanı</item>
+        <item>Basketbol Antrenörü</item>
+        <item>Baş Mimar</item>
+        <item>Başçarkçı</item>
+        <item>Başhekim</item>
+        <item>Başhemşire</item>
+        <item>Başkatip</item>
+        <item>Başkomiser</item>
+        <item>Başmüfettiş</item>
+        <item>Bebek Hemşiresi</item>
+        <item>Beden Eğitimi Öğretmeni</item>
+        <item>Bekçi</item>
+        <item>Belediye Başkanı</item>
+        <item>Belgelendirme Uzmanı</item>
+        <item>Beslenme Uzmanı</item>
+        <item>Beton Santral Operatörü</item>
+        <item>Beyaz Eşya Teknisyeni</item>
+        <item>Beyin Cerrahı</item>
+        <item>Bilet Satış Yetkilisi</item>
+        <item>Bilgi Güvenliği Müdürü</item>
+        <item>Bilgi Güvenliği Sorumlusu</item>
+        <item>Bilgi Güvenliği Uzmanı</item>
+        <item>Bilgi İşlem Destek Elemanı</item>
+        <item>Bilgi İşlem Elemanı</item>
+        <item>Bilgi İşlem Koordinatörü</item>
+        <item>Bilgi İşlem Müdürü</item>
+        <item>Bilgi İşlem Mühendisi</item>
+        <item>Bilgi İşlem Operatörü</item>
+        <item>Bilgi İşlem Sorumlusu</item>
+        <item>Bilgi İşlem Teknisyeni</item>
+        <item>Bilgi İşlem Uzmanı</item>
+        <item>Bilgi Sistemleri Müdürü</item>
+        <item>Bilgi Sistemleri Uzmanı</item>
+        <item>Bilgi Sistemleri Yöneticisi / Yönetmeni</item>
+        <item>Bilgi Teknolojileri Danışmanı</item>
+        <item>Bilgi Teknolojileri Destek Sorumlusu</item>
+        <item>Bilgi Teknolojileri Direktörü</item>
+        <item>Bilgi Teknolojileri Müdürü</item>
+        <item>Bilgi Teknolojileri Mühendisi</item>
+        <item>Bilgisayar Eğitmeni</item>
+        <item>Bilgisayar İşletmeni</item>
+        <item>Bilgisayar Mühendisi</item>
+        <item>Bilgisayar Operatörü</item>
+        <item>Bilgisayar Öğretmeni</item>
+        <item>Bilgisayar Programcısı</item>
+        <item>Bilgisayar Teknikeri</item>
+        <item>Bilgisayar Teknisyeni</item>
+        <item>Bilirkişi</item>
+        <item>Bilişim Suçları Uzmanı</item>
+        <item>Bilişim Teknolojileri Öğretmeni</item>
+        <item>Bilişim Uzmanı</item>
+        <item>Binbaşı</item>
+        <item>Bireysel Emeklilik Danışmanı</item>
+        <item>Bireysel Emeklilik Uzmanı</item>
+        <item>Bireysel Müşteri Temsilcisi</item>
+        <item>Bireysel Portföy Yöneticisi / Yönetmeni</item>
+        <item>Bireysel Satış Temsilcisi</item>
+        <item>Biyokimya Teknikeri</item>
+        <item>Biyokimya Uzmanı</item>
+        <item>Biyokimyager</item>
+        <item>Biyolog</item>
+        <item>Biyoloji Mühendisi</item>
+        <item>Biyoloji Öğretmeni</item>
+        <item>Biyomedikal Cihaz Teknikeri</item>
+        <item>Biyomedikal Mühendisi</item>
+        <item>Biyomedikal Teknikeri</item>
+        <item>Biyomedikal Teknisyeni</item>
+        <item>Biyomedikal Uzmanı</item>
+        <item>Biyoteknolog</item>
+        <item>Biyoteknoloji Uzmanı</item>
+        <item>Blog Yazarı</item>
+        <item>Bobinaj Ustası</item>
+        <item>Boks Antrenörü</item>
+        <item>Bordro Uzmanı</item>
+        <item>Bordro ve Özlük İşleri Müdürü</item>
+        <item>Bordro ve Özlük İşleri Uzmanı</item>
+        <item>Borsa Uzmanı</item>
+        <item>Borwerk Operatörü</item>
+        <item>Boya Teknikeri</item>
+        <item>Boyahane Müdürü</item>
+        <item>Bölge Müdürü</item>
+        <item>Bölge Satış Müdürü</item>
+        <item>Bölge Satış Sorumlusu</item>
+        <item>Bölge Satış Temsilcisi</item>
+        <item>Bölge Satış Yöneticisi</item>
+        <item>Börek Ustası</item>
+        <item>Broker</item>
+        <item>Bulgarca Öğretmeni</item>
+        <item>Buyer</item>
+        <item>Buz Pateni Antrenörü</item>
+        <item>Büro Memuru</item>
+        <item>Büro Personeli</item>
+        <item>Bütçe Planlama Direktörü</item>
+        <item>Bütçe Planlama Uzmanı</item>
+        <item>Bütçe Uzmanı</item>
+        <item>Bütçe ve Finans Uzmanı</item>
+        <item>Bütçe ve Raporlama Analisti</item>
+        <item>Bütçe ve Raporlama Uzmanı</item>
+        <item>Büyük Veri Mimarı</item>
+        <item>Büyük Veri Mühendisi</item>
+        <item></item>
+        <item>C Sınıfı İş Güvenliği Uzmanı</item>
+        <item>Cankurtaran</item>
+        <item>Cari Hesap Uzmanı</item>
+        <item>Cerrahi Asistanlık</item>
+        <item>Cerrahi Hemşire</item>
+        <item>Cilt Bakım Uzmanı</item>
+        <item>Cnc Lazer Kesim Operatörü</item>
+        <item>CNC Lazer Operatörü</item>
+        <item>CNC Operatörü</item>
+        <item>CNC Plazma Kesim Operatörü</item>
+        <item>Cnc Teknikeri</item>
+        <item>Cnc Tezgah Operatörü</item>
+        <item>Cnc Torna Operatörü</item>
+        <item>Coğrafya Öğretmeni</item>
+        <item>CRM Analisti</item>
+        <item>CRM Danışmanı</item>
+        <item>Çağrı Merkezi Elemanı</item>
+        <item>Çağrı Merkezi Kalite Uzmanı</item>
+        <item>Çağrı Merkezi Müdürü</item>
+        <item>Çağrı Merkezi Müşteri Temsilcisi</item>
+        <item>Çağrı Merkezi Operatörü</item>
+        <item>Çağrı Merkezi Takım Lideri</item>
+        <item>Çene Cerrahisi Uzmanı</item>
+        <item>Çevre Görevlisi</item>
+        <item>Çevre Mühendisi</item>
+        <item>Çevre Sağlığı Teknisyeni</item>
+        <item>Çevre Teknikeri</item>
+        <item>Çevre Uzmanı</item>
+        <item>Çevre Yüksek Mühendisi</item>
+        <item>Çikolata Ustası</item>
+        <item>Çizer / İllüstratör</item>
+        <item>Çocuk Gelişimi Öğretmeni</item>
+        <item>Çocuk Gelişimi Uzmanı</item>
+        <item>Çocuk Psikiyatristi</item>
+        <item>Çocuk Sağlığı ve Hastalıkları Uzmanı</item>
+        <item></item>
+        <item>Dadı</item>
+        <item>Dahiliye Uzmanı</item>
+        <item>Dalgıç</item>
+        <item>Dalış Eğitmeni</item>
+        <item>Dans Eğitmeni</item>
+        <item>Dans Öğretmeni</item>
+        <item>Dansçı</item>
+        <item>Dedektif</item>
+        <item>Defterdar</item>
+        <item>Değerleme Uzmanı</item>
+        <item>Dekan</item>
+        <item>Dekoratör</item>
+        <item>Demir Doğrama Ustası</item>
+        <item>Denetçi</item>
+        <item>Denetçi Yardımcısı</item>
+        <item>Denetim Müdürü</item>
+        <item>Denetim Uzmanı</item>
+        <item>Deniz Ulaştırma İşletme Mühendisi</item>
+        <item>Depo Müdürü</item>
+        <item>Deri Mühendisi</item>
+        <item>Deri Teknikeri</item>
+        <item>Dermatoloji Uzmanı</item>
+        <item>Dermokozmetik Uzmanı</item>
+        <item>Desen Tasarımcısı</item>
+        <item>Desinatör</item>
+        <item>Destek Elemanı</item>
+        <item>Destek Hizmetleri Müdürü</item>
+        <item>DevOps Mühendisi</item>
+        <item>Dış Ticaret Danışmanı</item>
+        <item>Dış Ticaret Müdürü</item>
+        <item>Dış Ticaret Operasyon Sorumlusu</item>
+        <item>Dış Ticaret Sorumlusu</item>
+        <item>Dış Ticaret Uzman Yardımcısı</item>
+        <item>Dış Ticaret Uzmanı</item>
+        <item>Dijital Dönüşüm Uzmanı</item>
+        <item>Dijital İçerik Yöneticisi</item>
+        <item>Dijital İletişim Uzmanı</item>
+        <item>Dijital Marka Yöneticisi</item>
+        <item>Dijital Medya Uzmanı</item>
+        <item>Dijital Pazarlama Müdürü</item>
+        <item>Dijital Pazarlama Sorumlusu</item>
+        <item>Dijital Pazarlama Stajyeri</item>
+        <item>Dijital Pazarlama Uzmanı</item>
+        <item>Dijital Pazarlama Yöneticisi</item>
+        <item>Dijital Proje Yöneticisi</item>
+        <item>Dijital Reklam Satış Müdürü</item>
+        <item>Dil ve Konuşma Terapisti</item>
+        <item>Dilme Makinesi Operatörü</item>
+        <item>Din Kültürü ve Ahlak Bilgisi Öğretmeni</item>
+        <item>Direksiyon Öğretmeni</item>
+        <item>Direktör</item>
+        <item>Disc Jockey / DJ</item>
+        <item>Dispeçer</item>
+        <item>Distribütör</item>
+        <item>Diş Hekimi</item>
+        <item>Diş Hekimi Asistanı</item>
+        <item>Diş Protez Teknikeri</item>
+        <item>Diş Teknikeri</item>
+        <item>Diş Teknisyeni</item>
+        <item>Diyaliz Teknisyeni</item>
+        <item>Diyetisyen</item>
+        <item>Dizayn Mühendisi</item>
+        <item>Dizayn Ofis Mimarı</item>
+        <item>Dizgi Operatörü</item>
+        <item>Dizgici</item>
+        <item>Doğalgaz Teknikeri</item>
+        <item>Doktor Asistanı</item>
+        <item>Dokuma Operatörü</item>
+        <item>Dokümantasyon Sorumlusu</item>
+        <item>Donanım Mühendisi</item>
+        <item>Donanım Tasarım Mühendisi</item>
+        <item>Dondurma Ustası</item>
+        <item>Dökümhane Müdürü</item>
+        <item>Dökümhane Sorumlusu</item>
+        <item>Döner Ustası</item>
+        <item>Drama Eğitmeni</item>
+        <item>Drama Öğretmeni</item>
+        <item>Dramaturg</item>
+        <item>Drenaj Mühendisi</item>
+        <item>Drone Pilotu</item>
+        <item>Duvar Kağıdı Ustası</item>
+        <item></item>
+        <item>Ebe</item>
+        <item>Ebru Sanatı Öğretmeni</item>
+        <item>Eczacı</item>
+        <item>Eczacı Teknisyeni</item>
+        <item>Edebiyat Öğretmeni</item>
+        <item>Editör</item>
+        <item>E-eğitim Yöneticisi</item>
+        <item>Eğitim Danışmanı</item>
+        <item>Eğitim Koçu</item>
+        <item>Eğitim Koordinatörü</item>
+        <item>Eğitim Satış Danışmanı</item>
+        <item>Eğitim Uzman Yardımcısı</item>
+        <item>Eğitim Uzmanı</item>
+        <item>Eğitim ve Gelişim Uzmanı</item>
+        <item>Eğitmen</item>
+        <item>EKG Teknisyeni</item>
+        <item>Ekolog</item>
+        <item>Ekonometrist</item>
+        <item>Ekonomist</item>
+        <item>Ekskavatör Operatörü</item>
+        <item>Eksper</item>
+        <item>Ekstrüzyon Pres Operatörü</item>
+        <item>El Sanatları Öğretmeni</item>
+        <item>Elektrik Bakım Elemanı</item>
+        <item>Elektrik Bakım Mühendisi</item>
+        <item>Elektrik Bakım Teknisyeni</item>
+        <item>Elektrik Elektronik Mühendisi</item>
+        <item>Elektrik Elektronik Teknikeri</item>
+        <item>Elektrik Elektronik Teknisyeni</item>
+        <item>Elektrik Elektronik Yüksek Mühendisi</item>
+        <item>Elektrik Formeni</item>
+        <item>Elektrik Mühendisi</item>
+        <item>Elektrik Öğretmeni</item>
+        <item>Elektrik Proje Mühendisi</item>
+        <item>Elektrik Şantiye Şefi</item>
+        <item>Elektrik Teknikeri</item>
+        <item>Elektrik Teknisyeni</item>
+        <item>Elektrik Yüksek Mühendisi</item>
+        <item>Elektronik Mühendisi</item>
+        <item>Elektronik Tasarım Mühendisi</item>
+        <item>Elektronik Teknikeri</item>
+        <item>Elektronik Teknisyeni</item>
+        <item>Elektronik ve Haberleşme Mühendisi</item>
+        <item>Elektronik Yüksek Mühendisi</item>
+        <item>Elektronörofizyoloji Teknikeri</item>
+        <item>Embriyolog</item>
+        <item>Emlak Danışmanı</item>
+        <item>Endeks Okuma Görevlisi</item>
+        <item>Endokrinoloji Uzmanı</item>
+        <item>Endoskopi Hemşiresi</item>
+        <item>Endüstri Mühendisi</item>
+        <item>Endüstriyel Otomasyon Teknikeri</item>
+        <item>Endüstriyel Psikolog</item>
+        <item>Endüstriyel Tasarım Mühendisi</item>
+        <item>Endüstriyel Tasarımcı</item>
+        <item>Enerji Mühendisi</item>
+        <item>Enerji Sistemleri Mühendisi</item>
+        <item>Enerji Ticareti Uzmanı</item>
+        <item>Enerji Uzman Yardımcısı</item>
+        <item>Enerji Uzmanı</item>
+        <item>Enerji Yöneticisi</item>
+        <item>Enfeksiyon Uzmanı</item>
+        <item>Epidemiyoloji Doktoru</item>
+        <item>Ergoterapist</item>
+        <item>ERP Danışmanı</item>
+        <item>ERP Mühendisi</item>
+        <item>ERP Proje Yöneticisi</item>
+        <item>ERP Sorumlusu</item>
+        <item>ERP Uzmanı</item>
+        <item>E-sporcu</item>
+        <item>Estetisyen</item>
+        <item>E-ticaret Danışmanı</item>
+        <item>E-ticaret Direktörü</item>
+        <item>E-Ticaret Kategori Yöneticisi</item>
+        <item>E-ticaret Müdürü</item>
+        <item>E-ticaret Raporlama Uzmanı</item>
+        <item>E-ticaret Sorumlusu</item>
+        <item>E-ticaret Uzmanı</item>
+        <item>E-ticaret Yöneticisi</item>
+        <item>Etkinlik Koordinatörü</item>
+        <item>Etkinlik Uzmanı</item>
+        <item>Etkinlik ve Organizasyon Sorumlusu</item>
+        <item>Etkinlik Yöneticisi</item>
+        <item>Etüt Öğretmeni</item>
+        <item>Evde Bakım Hemşiresi</item>
+        <item></item>
+        <item></item>
+        <item>Fabrika Müdürü</item>
+        <item>Farmakovijilans Sorumlusu</item>
+        <item>Farsça Öğretmeni</item>
+        <item>Fason Takip Elemanı</item>
+        <item>Fason Takip Sorumlusu</item>
+        <item>Fayans Ustası</item>
+        <item>Felsefe Grubu Öğretmeni</item>
+        <item>Felsefe Öğretmeni</item>
+        <item>Fen Bilgisi Öğretmeni</item>
+        <item>Fen İşleri Müdürü</item>
+        <item>Fen ve Teknoloji Öğretmeni</item>
+        <item>Ferforje Ustası</item>
+        <item>Figüran</item>
+        <item>Finans Danışmanı</item>
+        <item>Finans Direktörü</item>
+        <item>Finans Genel Müdür Yardımcısı</item>
+        <item>Finans Koordinatörü</item>
+        <item>Finans Müdürü</item>
+        <item>Finans Sorumlusu</item>
+        <item>Finans Uzmanı</item>
+        <item>Finans Yöneticisi / Yönetmeni</item>
+        <item>Finansal Analist</item>
+        <item>Finansal Danışman</item>
+        <item>Finansal Güvence Danışmanı</item>
+        <item>Finansal Kontrolör</item>
+        <item>Finansal Planlama Uzmanı</item>
+        <item>Finansal Raporlama Uzmanı</item>
+        <item>Finansman Müdürü</item>
+        <item>Fitness Eğitmeni</item>
+        <item>Fitopatoloji Teknikeri</item>
+        <item>Fiyatlandırma Analisti</item>
+        <item>Fiyatlandırma Uzmanı</item>
+        <item>Fiyatlandırma ve Kampanya Uzmanı</item>
+        <item>Fiyatlandırma ve Kampanya Yöneticisi</item>
+        <item>Fizibilite Uzmanı</item>
+        <item>Fizik Mühendisi</item>
+        <item>Fizik Öğretmeni</item>
+        <item>Fizik Tedavi Teknikeri</item>
+        <item>Fizik Tedavi Uzmanı</item>
+        <item>Fizik Tedavi ve Rehabilitasyon Uzmanı</item>
+        <item>Fizyoterapi Teknikeri</item>
+        <item>Fizyoterapist</item>
+        <item>Flebotomi Uzmanı</item>
+        <item>Fon Yöneticisi</item>
+        <item>Forex Uzmanı</item>
+        <item>Forklift Operatörü</item>
+        <item>Formen</item>
+        <item>Formülasyon Uzmanı</item>
+        <item>Fotoğraf Editörü</item>
+        <item>Fotoğrafçı</item>
+        <item>Fransızca Öğretmeni</item>
+        <item>Fraud Uzmanı</item>
+        <item>Fraud Yöneticisi</item>
+        <item>Freze Operatörü</item>
+        <item>Fuar Hostesi</item>
+        <item>Futbol Antrenörü</item>
+        <item></item>
+        <item>Garson</item>
+        <item>Gastroenteroloji Uzmanı</item>
+        <item>Gayrimenkul Danışmanı</item>
+        <item>Gayrimenkul Değerleme Uzmanı</item>
+        <item>Gayrimenkul Eksperi</item>
+        <item>Gayrimenkul Geliştirme Uzmanı</item>
+        <item>Gayrimenkul Satış Danışmanı</item>
+        <item>Gayrimenkul Yatırım danışmanı</item>
+        <item>Gazeteci</item>
+        <item>Gece Bekçisi</item>
+        <item>Gelir Uzman Yardımcısı</item>
+        <item>Gelir Uzmanı</item>
+        <item>Gemi İnşa Müdürü</item>
+        <item>Gemi İnşa Mühendisi</item>
+        <item>Gemi Kontrol Memuru</item>
+        <item>Gemi Makine Mühendisi</item>
+        <item>Gemi Operasyon Memuru</item>
+        <item>Genel Cerrahi Uzmanı</item>
+        <item>Genel Koordinatör</item>
+        <item>Genel Muhasebe Uzmanı</item>
+        <item>Genel Müdür Yardımcısı</item>
+        <item>Genel Sekreter</item>
+        <item>Genel Yayın Yönetmeni</item>
+        <item>Genetik Mühendisi</item>
+        <item>Genetik Uzmanı</item>
+        <item>Geomatik Mühendisi</item>
+        <item>Geometri Öğretmeni</item>
+        <item>Geoteknik Mühendisi</item>
+        <item>Gerontolog</item>
+        <item>Gıda Ekstrüzyon Uzmanı</item>
+        <item>Gıda Kontrolörü</item>
+        <item>Gıda Mühendisi</item>
+        <item>Gıda Teknikeri</item>
+        <item>Gıda Teknisyeni</item>
+        <item>Girişimci</item>
+        <item>Gişe Memuru</item>
+        <item>Gizli Müşteri</item>
+        <item>Göğüs Hastalıkları Uzmanı</item>
+        <item>Gömülü Sistem Mühendisi</item>
+        <item>Gömülü Yazılım Mühendisi</item>
+        <item>Görsel Düzenleme / Sunum / Tasarım Elemanı</item>
+        <item>Görsel Düzenleme / Sunum / Tasarım Sorumlusu</item>
+        <item>Görsel İletişim Uzmanı</item>
+        <item>Görsel Sanatlar Öğretmeni</item>
+        <item>Görsel Tasarım Uzmanı</item>
+        <item>Görüntü Yönetmeni</item>
+        <item>Göz Hastalıkları Uzmanı</item>
+        <item>Gözetim Elemanı</item>
+        <item>Grafik Tasarım Uzmanı</item>
+        <item>Grafik Tasarımcı</item>
+        <item>Grafiker</item>
+        <item>Greyder Operatörü</item>
+        <item>GSM Teknisyeni</item>
+        <item>Güç Aktarma Sistemleri Mühendisi</item>
+        <item>Güç Sistemleri Mühendisi</item>
+        <item>Gümrük Memuru</item>
+        <item>Gümrük Muhafaza Memuru</item>
+        <item>Gümrük Müşaviri</item>
+        <item>Güvenlik Amiri</item>
+        <item>Güvenlik Görevlisi</item>
+        <item>Güvenlik Müdürü</item>
+        <item>Güvenlik Şefi</item>
+        <item>Güzellik Uzmanı</item>
+        <item></item>
+        <item>Haber Muhabiri</item>
+        <item>Haber Spikeri</item>
+        <item>HACCP Uzmanı</item>
+        <item>HACCP Yöneticisi</item>
+        <item>Hakem</item>
+        <item>Hakim</item>
+        <item>Halı Desinatörü</item>
+        <item>Halk Oyunları Öğretmeni</item>
+        <item>Halkla İlişkiler Müdürü</item>
+        <item>Halkla İlişkiler Sorumlusu</item>
+        <item>Halkla İlişkiler Uzmanı</item>
+        <item>Halkla İlişkiler Yöneticisi / Yönetmeni</item>
+        <item>Ham Madde Alım Uzmanı</item>
+        <item>Ham Madde Mühendisi</item>
+        <item>Harekat Memuru</item>
+        <item>Harita Mühendisi</item>
+        <item>Harita Teknikeri</item>
+        <item>Harita Teknisyeni</item>
+        <item>Harita ve Kadastro Mühendisi</item>
+        <item>Harita Yüksek Mühendisi</item>
+        <item>Hasar Danışmanı</item>
+        <item>Hasar Uzmanı</item>
+        <item>Hasta Bakıcı</item>
+        <item>Hasta Danışmanı</item>
+        <item>Hasta Hizmetleri Müdürü</item>
+        <item>Hasta İlişkileri Müdürü</item>
+        <item>Hasta İlişkileri Sorumlusu</item>
+        <item>Hastane Müdürü</item>
+        <item>Hat Operatörü</item>
+        <item>Hattat</item>
+        <item>Hayvan Bakıcısı</item>
+        <item>Hazine Uzmanı</item>
+        <item>Helikopter Pilotu</item>
+        <item>Hematoloji Uzmanı</item>
+        <item>Hemşire</item>
+        <item>Hesap Uzmanı</item>
+        <item>Hidrojeoloji Mühendisi</item>
+        <item>Hidrolik Mühendisi</item>
+        <item>Hidroterapist</item>
+        <item>Hititolog</item>
+        <item>Homologasyon Mühendisi</item>
+        <item>Host</item>
+        <item>Hostes</item>
+        <item>Hukuk Danışmanı</item>
+        <item>Hukuk Müşaviri</item>
+        <item>Hukuk Sekreteri</item>
+        <item>Huzurevi Hemşiresi</item>
+        <item>Hvac Mühendisi</item>
+        <item></item>
+        <item>Işık Teknisyeni</item>
+        <item></item>
+        <item>İcra Avukatı</item>
+        <item>İcra Memuru</item>
+        <item>İcra Müdürü</item>
+        <item>İcra Takip Elemanı</item>
+        <item>İç Denetçi</item>
+        <item>İç Denetim Müdürü</item>
+        <item>İç Denetim Uzman Yardımcısı</item>
+        <item>İç Denetim Uzmanı</item>
+        <item>İç Denetim Yöneticisi</item>
+        <item>İç Hastalıkları Uzmanı</item>
+        <item>İç Mimar</item>
+        <item>İçerik Editörü</item>
+        <item>İçerik Planlama Uzmanı</item>
+        <item>İçerik Yöneticisi</item>
+        <item>İdari İşler Müdürü</item>
+        <item>İdari İşler Personeli</item>
+        <item>İdari İşler Sorumlusu</item>
+        <item>İdari İşler Uzmanı</item>
+        <item>İdari İşler Yöneticisi</item>
+        <item>İdari İşler Yöneticisi / Yönetmeni</item>
+        <item>İdari ve Mali İşler Müdürü</item>
+        <item>İhale Danışmanı</item>
+        <item>İhracat Elemanı</item>
+        <item>İhracat Müdürü</item>
+        <item>İhracat Operasyon Uzmanı</item>
+        <item>İhracat Uzmanı</item>
+        <item>İklimlendirme Soğutma Teknikeri</item>
+        <item>İktisat Öğretmeni</item>
+        <item>İleri Sürüş Teknikleri Eğitmeni</item>
+        <item>İletişim Uzmanı</item>
+        <item>İlk Yardım Eğitmeni</item>
+        <item>İlk Yardım Öğretmeni</item>
+        <item>İmalat Müdürü</item>
+        <item>İmalat Mühendisi</item>
+        <item>İmalat Sorumlusu</item>
+        <item>İnfaz ve Koruma Memuru</item>
+        <item>İngilizce Eğitmeni</item>
+        <item>İngilizce Öğretmeni</item>
+        <item>İnovasyon Uzmanı</item>
+        <item>İnsan Kaynakları Asistanı</item>
+        <item>İnsan Kaynakları Danışmanı</item>
+        <item>İnsan Kaynakları Direktörü</item>
+        <item>İnsan Kaynakları Eğitim Uzmanı</item>
+        <item>İnsan Kaynakları Elemanı</item>
+        <item>İnsan Kaynakları Genel Müdür Yardımcısı</item>
+        <item>İnsan Kaynakları Koordinatörü</item>
+        <item>İnsan Kaynakları Müdür Yardımcısı</item>
+        <item>İnsan Kaynakları Müdürü</item>
+        <item>İnsan Kaynakları Stajyeri</item>
+        <item>İnsan Kaynakları Şefi</item>
+        <item>İnsan Kaynakları Uzman Yardımcısı</item>
+        <item>İnsan Kaynakları Uzmanı</item>
+        <item>İnspektör / Enspektör</item>
+        <item>İnşaat Dizayn Mühendisi</item>
+        <item>İnşaat Kalite Kontrol Mühendisi</item>
+        <item>İnşaat Kontrol Mühendisi</item>
+        <item>İnşaat Mühendisi</item>
+        <item>İnşaat Proje Müdürü</item>
+        <item>İnşaat Şefi</item>
+        <item>İnşaat Teknikeri</item>
+        <item>İnşaat Teknisyeni</item>
+        <item>İntaniye / Enfeksiyon Hastalıkları Uzmanı</item>
+        <item>İOS Geliştirici</item>
+        <item>İspanyolca Öğretmeni</item>
+        <item>İstatistik Öğretmeni</item>
+        <item>İstatistik Uzmanı</item>
+        <item>İş Analisti</item>
+        <item>İş Geliştirme Direktörü</item>
+        <item>İş Geliştirme Genel Müdür Yardımcısı</item>
+        <item>İş Geliştirme Koordinatörü</item>
+        <item>İş Geliştirme Müdürü</item>
+        <item>İş Geliştirme Mühendisi</item>
+        <item>İş Geliştirme Uzmanı</item>
+        <item>İş Geliştirme ve Proje Yöneticisi</item>
+        <item>İş Güvenliği Koordinatörü</item>
+        <item>İş Güvenliği Mühendisi</item>
+        <item>İş Güvenliği Teknikeri</item>
+        <item>İş Güvenliği Uzmanı</item>
+        <item>İş Makinesi Operatörü</item>
+        <item>İş Müfettişi</item>
+        <item>İş Planlama Uzmanı</item>
+        <item>İş Sağlığı ve Güvenliği Mühendisi</item>
+        <item>İş Sağlığı ve Güvenliği Personeli</item>
+        <item>İş Sağlığı ve Güvenliği Teknikeri</item>
+        <item>İş Sağlığı ve Güvenliği Uzmanı</item>
+        <item>İş Yeri Hekimi</item>
+        <item>İş Zekası Analisti</item>
+        <item>İş Zekası Mühendisi</item>
+        <item>İş Zekası Uzmanı</item>
+        <item>İş Zekası Yöneticisi</item>
+        <item>İşaret Dili Eğitmeni</item>
+        <item>İşaret Dili Tercümanı</item>
+        <item>İşe Alım Uzman Yardımcısı</item>
+        <item>İşe Alım Uzmanı</item>
+        <item>İşe Alım Yöneticisi</item>
+        <item>İşletme Müdürü</item>
+        <item>İşletme Mühendisi</item>
+        <item>İtalyanca Öğretmeni</item>
+        <item>İthalat İhracat Elemanı</item>
+        <item>İthalat İhracat Müdürü</item>
+        <item>İthalat İhracat Sorumlusu</item>
+        <item>İthalat İhracat Uzmanı</item>
+        <item>İthalat Müdürü</item>
+        <item>İthalat Müşteri Temsilcisi</item>
+        <item>İthalat Sorumlusu</item>
+        <item>İthalat Uzmanı</item>
+        <item></item>
+        <item>Jandarma Astsubay</item>
+        <item>Japonca Öğretmeni</item>
+        <item>Java Yazılım Mimarı</item>
+        <item>Java Yazılım Mühendisi</item>
+        <item>Java Yazılım Uzmanı</item>
+        <item>JCB Operatörü</item>
+        <item>Jeodezi ve Fotogrametri Mühendisi</item>
+        <item>Jeofizik Mühendisi</item>
+        <item>Jeofizik Yüksek Mühendisi</item>
+        <item>Jeolog</item>
+        <item>Jeoloji Mühendisi</item>
+        <item>Jeoloji Yüksek Mühendisi</item>
+        <item>Jeoteknik Mühendisi</item>
+        <item></item>
+        <item>Kabin Amiri</item>
+        <item>Kabin görevlisi</item>
+        <item>Kabin Memuru</item>
+        <item>Kadastro Teknisyeni</item>
+        <item>Kadın Doğum Hemşiresi</item>
+        <item>Kadın Doğum Uzmanı</item>
+        <item>Kahve Uzmanı</item>
+        <item>Kahya</item>
+        <item>Kalemkar</item>
+        <item>Kalıp Tasarım Uzmanı</item>
+        <item>Kalıp Ustası</item>
+        <item>Kalıphane Müdürü</item>
+        <item>Kalibrasyon Müdürü</item>
+        <item>Kalibrasyon Mühendisi</item>
+        <item>Kalibrasyon Teknisyeni</item>
+        <item>Kalibrasyon Uzmanı</item>
+        <item>Kalifikasyon Uzmanı</item>
+        <item>Kalite Denetçisi</item>
+        <item>Kalite Direktörü</item>
+        <item>Kalite Güvence Müdürü</item>
+        <item>Kalite Güvence Mühendisi</item>
+        <item>Kalite Güvence Uzmanı</item>
+        <item>Kalite Kontrol Analisti</item>
+        <item>Kalite Kontrol Elemanı</item>
+        <item>Kalite Kontrol Müdürü</item>
+        <item>Kalite Kontrol Mühendisi</item>
+        <item>Kalite Kontrol Operatörü</item>
+        <item>Kalite Kontrol Sorumlusu</item>
+        <item>Kalite Kontrol Şefi</item>
+        <item>Kontrol Teknisyeni</item>
+        <item>Kalite Müdürü</item>
+        <item>Kalite Mühendisi</item>
+        <item>Kalite Uzmanı</item>
+        <item>Kalite Yöneticisi</item>
+        <item>Kalite Yönetim Sorumlusu</item>
+        <item>Kamarot</item>
+        <item>Kameraman</item>
+        <item>Kampanya Uzmanı</item>
+        <item>Kampanya Yöneticisi</item>
+        <item>Kamyon Şoförü</item>
+        <item>Kanal Geliştirme Müdürü</item>
+        <item>Kanal Geliştirme Uzmanı</item>
+        <item>Kaplama Ustası</item>
+        <item>Kaporta Ustası</item>
+        <item>Kaptan</item>
+        <item>Kardiyoloji Hemşiresi</item>
+        <item>Kardiyoloji Uzmanı</item>
+        <item>Karikatürist</item>
+        <item>Kariyer Danışmanı</item>
+        <item>Kasiyer</item>
+        <item>Kategori Uzmanı</item>
+        <item>Kategori Yöneticisi / Yönetmeni</item>
+        <item>Katip</item>
+        <item>Katma Değerli Hizmetler Uzmanı</item>
+        <item>Kauçuk Pres Operatörü</item>
+        <item>Kayak Eğitmeni</item>
+        <item>Kaynak İnspektörü</item>
+        <item>Kaynak Mühendisi</item>
+        <item>Kaynak Teknikeri</item>
+        <item>Kaynak Ustası</item>
+        <item>Kebap Ustası</item>
+        <item>Keman Öğretmeni</item>
+        <item>Kemoterapi Hemşiresi</item>
+        <item>Kentsel Dönüşüm Ustası</item>
+        <item>Kepçe Operatörü</item>
+        <item>Kıdemli Dijital Pazarlama Yöneticisi</item>
+        <item>Kıdemli E-Ticaret Satın Alma Uzmanı</item>
+        <item>Kıdemli İş Analisti</item>
+        <item>Kıdemli İş Zekası Uzmanı</item>
+        <item>Kıdemli İşe Alım Uzmanı</item>
+        <item>Kıdemli SAP Danışmanı</item>
+        <item>Kıdemli SAP Uzmanı</item>
+        <item>Kıdemli Veri Analisti</item>
+        <item>Kıdemli Yazılım Mimarı</item>
+        <item>Kıdemli Yazılım Mühendisi</item>
+        <item>Kıdemli Yazılım Uzmanı</item>
+        <item>Kilit Müşteri Yöneticisi</item>
+        <item>Kimya Mühendisi</item>
+        <item>Kimya Öğretmeni</item>
+        <item>Kimya Teknikeri</item>
+        <item>Kimya Teknisyeni</item>
+        <item>Kimyager</item>
+        <item>Kişisel Gelişim Uzmanı</item>
+        <item>Kişisel Verileri Koruma Uzmanı</item>
+        <item>Klima Teknikeri</item>
+        <item>Klinik Psikolog</item>
+        <item>Kobi Müşteri Temsilcisi</item>
+        <item>Kobi Portföy Yöneticisi</item>
+        <item>Kobi Uzmanı</item>
+        <item>Koku Uzmanı</item>
+        <item>Komi</item>
+        <item>Komiser</item>
+        <item>Konfigürasyon Mühendisi</item>
+        <item>Konsiyerj</item>
+        <item>Konsolidasyon Yöneticisi</item>
+        <item>Konsolos</item>
+        <item>Konstrüksiyon Mühendisi</item>
+        <item>Konstrüktör</item>
+        <item>Kontrol Mühendisi</item>
+        <item>Kontrol ve Otomasyon Teknikeri</item>
+        <item>Kontrolör</item>
+        <item>Koreograf</item>
+        <item>Köpek Eğitmeni</item>
+        <item>Köşe Yazarı</item>
+        <item>Kreatif Direktör</item>
+        <item>Kredi Analisti</item>
+        <item>Kredi Derecelendirme Uzmanı</item>
+        <item>Kredi Tahsis Uzmanı</item>
+        <item>Kredi Uzmanı</item>
+        <item>Kreş Öğretmeni</item>
+        <item>Kule Vinç Operatörü</item>
+        <item>Kullanıcı Deneyimi Uzmanı</item>
+        <item>Kurgu Yönetmeni</item>
+        <item>Kurumsal Danışman</item>
+        <item>Kurumsal İletişim Direktörü</item>
+        <item>Kurumsal İletişim Müdürü</item>
+        <item>Kurumsal İletişim Uzman Yardımcısı</item>
+        <item>Kurumsal İletişim Uzmanı</item>
+        <item>Kurumsal İletişim Yöneticisi / Yönetmeni</item>
+        <item>Kurumsal İlişkiler Uzmanı</item>
+        <item>Kurumsal Müşteri Temsilcisi</item>
+        <item>Kurumsal Pazarlama Uzmanı</item>
+        <item>Kurumsal Satış Danışmanı</item>
+        <item>Kurumsal Satış Müdürü</item>
+        <item>Kurumsal Satış Temsilcisi</item>
+        <item>Kurumsal Satış Uzmanı</item>
+        <item>Kurye</item>
+        <item></item>
+        <item>Laborant</item>
+        <item>Laboratuvar Elemanı</item>
+        <item>Laboratuvar Mühendisi</item>
+        <item>Laboratuvar Sorumlusu</item>
+        <item>Laboratuvar Teknikeri</item>
+        <item>Laboratuvar Teknisyeni</item>
+        <item>Laminant Ustası</item>
+        <item>Lazer Kesim Operatörü</item>
+        <item>Liman Operasyon Elemanı</item>
+        <item>Linux Sistem Uzmanı</item>
+        <item>Linux Sistem Yöneticisi</item>
+        <item>Loder Operatörü</item>
+        <item>Logo Tasarımcısı</item>
+        <item>Lojistik Depo Elemanı</item>
+        <item>Lojistik Depo Sorumlusu</item>
+        <item>Lojistik Müdürü</item>
+        <item>Lojistik Mühendisi</item>
+        <item>Lojistik Operasyon Sorumlusu</item>
+        <item>Lojistik Operasyon Uzmanı</item>
+        <item>Lojistik Planlama Uzmanı</item>
+        <item>Lojistik Uzmanı</item>
+        <item></item>
+        <item>Maden Mühendisi</item>
+        <item>Maden Teknikeri</item>
+        <item>Maden Yüksek Mühendisi</item>
+        <item>Mağaza Görevlisi</item>
+        <item>Mağaza Görsel Sorumlusu</item>
+        <item>Mağaza Müdür Yardımcısı</item>
+        <item>Mağaza Müdürü</item>
+        <item>Mağaza Satış Danışmanı</item>
+        <item>Mağaza Yöneticisi / Yönetmeni</item>
+        <item>Makam Şoförü</item>
+        <item>Makine Enerji Müdürü</item>
+        <item>Makine Enspektörü</item>
+        <item>Makine Montaj Elemanı</item>
+        <item>Makine Mühendisi</item>
+        <item>Makine Operatörü</item>
+        <item>Makine Ressamı</item>
+        <item>Makine Teknikeri</item>
+        <item>Makine Teknisyeni</item>
+        <item>Makine Yüksek Mühendisi</item>
+        <item>Makinist</item>
+        <item>Makyaj Uzmanı</item>
+        <item>Makyöz</item>
+        <item>Mal Müdürü</item>
+        <item>Mali Analist</item>
+        <item>Mali Danışman</item>
+        <item>Mali İşler Direktörü</item>
+        <item>Mali İşler Koordinatörü</item>
+        <item>Mali İşler Müdürü</item>
+        <item>Mali İşler Sorumlusu</item>
+        <item>Mali İşler Uzman yardımcısı</item>
+        <item>Mali İşler Uzmanı</item>
+        <item>Mali İşler Yöneticisi</item>
+        <item>Mali Kontrol Uzmanı</item>
+        <item>Mali Müşavir</item>
+        <item>Mali Tahlil Uzmanı</item>
+        <item>Mali Tahlil ve İstihbarat Uzmanı</item>
+        <item>Mali ve İdari İşler Müdürü</item>
+        <item>Maliyet Kontrol Mühendisi</item>
+        <item>Maliyet Muhasebesi Uzmanı</item>
+        <item>Malzeme Mühendisi</item>
+        <item>Malzeme Planlama Mühendisi</item>
+        <item>Mamografi Teknisyeni</item>
+        <item>Manikürist</item>
+        <item>Manken</item>
+        <item>Marka Danışmanı</item>
+        <item>Marka Direktörü</item>
+        <item>Marka Elçisi</item>
+        <item>Marka İletişim Uzmanı</item>
+        <item>Marka Müdürü</item>
+        <item>Marka Sorumlusu</item>
+        <item>Marka Temsilcisi</item>
+        <item>Marka Uzmanı</item>
+        <item>Marka Yöneticisi / Yönetmeni</item>
+        <item>Masöz</item>
+        <item>Matematik Mühendisi</item>
+        <item>Matematik Öğretmeni</item>
+        <item>Meclis Başkanı</item>
+        <item>Medikal Danışman</item>
+        <item>Medikal Fizik Uzmanı</item>
+        <item>Medya Planlama Müdürü</item>
+        <item>Medya Planlama Uzmanı</item>
+        <item>Medya Uzmanı</item>
+        <item>Mekanik Bakım Müdürü</item>
+        <item>Mekanik Bakım Mühendisi</item>
+        <item>Mekanik Bakım Teknisyeni</item>
+        <item>Mekanik Bakım Yöneticisi</item>
+        <item>Mekanik Mühendisi</item>
+        <item>Mekanik Teknikeri</item>
+        <item>Mekanik Teknisyeni</item>
+        <item>Mekanik Tesisat Mühendisi</item>
+        <item>Mekaniker</item>
+        <item>Mekatronik Mühendisi</item>
+        <item>Mekatronik Teknikeri</item>
+        <item>Mekatronik Teknisyeni</item>
+        <item>Mekatroniker</item>
+        <item>Memur</item>
+        <item>Menajer</item>
+        <item>Mental Aritmetik Öğretmeni</item>
+        <item>Merchandiser</item>
+        <item>Merchandiser Müdürü</item>
+        <item>Mermer Teknikeri</item>
+        <item>Mermer Ustası</item>
+        <item>Metal İşleri Öğretmeni</item>
+        <item>Metalograf</item>
+        <item>Metalurji ve Malzeme Mühendisi</item>
+        <item>Metalürji Mühendisi</item>
+        <item>Meteoroloji Mühendisi</item>
+        <item>Metin Yazarı</item>
+        <item>Metod Mühendisi</item>
+        <item>Miço</item>
+        <item>Mihmandar</item>
+        <item>Mikrobiyoloji Analisti</item>
+        <item>Mikrobiyoloji Uzmanı</item>
+        <item>Milletvekili</item>
+        <item>Mimar</item>
+        <item>Mimari Tasarımcı</item>
+        <item>Mimari Teknik Ressam</item>
+        <item>Misafir İlişkileri Müdürü</item>
+        <item>Misafir İlişkileri Sorumlusu</item>
+        <item>Mobil Uygulama Geliştiricisi</item>
+        <item>Mobil Vinç Operatörü</item>
+        <item>Mobil Yazılım Mühendisi</item>
+        <item>Mobil Yazılım Uzmanı</item>
+        <item>Mobilya Ustası</item>
+        <item>Moda Editörü</item>
+        <item>Moda Tasarımcısı</item>
+        <item>Model</item>
+        <item>Modelist</item>
+        <item>Modelist Yardımcısı</item>
+        <item>Moderatör</item>
+        <item>Moleküler Biyolog</item>
+        <item>Montaj Operatörü</item>
+        <item>Mortgage Danışmanı</item>
+        <item>Motor Öğretmeni</item>
+        <item>Motor Teknikeri</item>
+        <item>Motorlu Kurye</item>
+        <item>MR Teknikeri</item>
+        <item>Muhabir</item>
+        <item>Muhasebe Asistanı</item>
+        <item>Muhasebe Elemanı</item>
+        <item>Muhasebe Müdürü</item>
+        <item>Muhasebe Öğretmeni</item>
+        <item>Muhasebe Sorumlusu</item>
+        <item>Muhasebe Uzman yardımcısı</item>
+        <item>Muhasebe Uzmanı</item>
+        <item>Muhasebe ve Finans Müdürü</item>
+        <item>Muhasebe ve Finans Sorumlusu</item>
+        <item>Muhasebe ve Raporlama Uzmanı</item>
+        <item>Muhasebe Yetkilisi</item>
+        <item>Muhtar</item>
+        <item>Mutemet</item>
+        <item>Mutfak Şefi</item>
+        <item>Mübaşir</item>
+        <item>Mücellit Ustası</item>
+        <item>Müdür Yardımcısı</item>
+        <item>Mühendis</item>
+        <item>Müsteşar</item>
+        <item>Müşteri Danışmanı</item>
+        <item>Müşteri Deneyimi Uzmanı</item>
+        <item>Müşteri Deneyimi Yöneticisi</item>
+        <item>Müşteri Hizmetleri Sorumlusu</item>
+        <item>Müşteri Hizmetleri Temsilcisi</item>
+        <item>Müşteri İlişkileri Sorumlusu</item>
+        <item>Müşteri Temsilcisi</item>
+        <item>Müteahhit</item>
+        <item>Müzik Öğretmeni</item>
+        <item></item>
+        <item>Nefroloji Hemşiresi</item>
+        <item>Nefroloji uzmanı</item>
+        <item>Nenatoloji Uzmanı</item>
+        <item>Network Güvenlik Uzmanı</item>
+        <item>Network Uzmanı</item>
+        <item>Noter</item>
+        <item>Noter Katibi</item>
+        <item>Nöroloji Uzmanı</item>
+        <item>Nöroşirurji Uzmanı</item>
+        <item>Nükleer Enerji Mühendisi</item>
+        <item>Nükleer Fizik Mühendisi</item>
+        <item>Nükleer Tıp Hemşiresi</item>
+        <item>Nükleer Tıp Teknikeri</item>
+        <item></item>
+        <item>Odyolog</item>
+        <item>Odyoloji Uzmanı</item>
+        <item>Odyometri Teknikeri</item>
+        <item>Odyometrist</item>
+        <item>Okul Müdürü</item>
+        <item>Okul Öncesi Öğretmeni</item>
+        <item>Okutman / Lektör</item>
+        <item>Omurga Cerrahı</item>
+        <item>Online Pazarlama Uzmanı</item>
+        <item>Operasyon Destek Elemanı</item>
+        <item>Operasyon Direktörü</item>
+        <item>Operasyon Genel Müdür Yardımcısı</item>
+        <item>Operasyon Memuru</item>
+        <item>Operasyon Müdürü</item>
+        <item>Operasyon Sorumlusu</item>
+        <item>Operasyon Şefi</item>
+        <item>Operasyon Uzmanı</item>
+        <item>Operasyon Yöneticisi / Yönetmeni</item>
+        <item>Operatör</item>
+        <item>Operatör Doktor</item>
+        <item>Optik Mühendisi</item>
+        <item>Optisyen</item>
+        <item>Optitex Operatörü</item>
+        <item>Organizasyonel Gelişim Uzmanı</item>
+        <item>Organizatör</item>
+        <item>Orkestra Şefi</item>
+        <item>Orman Endüstri Mühendisi</item>
+        <item>Orman Mühendisi</item>
+        <item>Ortodonti Uzmanı</item>
+        <item>Ortopedi Hemşiresi</item>
+        <item>Ortopedi Teknikeri</item>
+        <item>Ortopedi Teknisyeni</item>
+        <item>Ortopedi Uzmanı</item>
+        <item>Ortopedi ve Travmatoloji Uzmanı</item>
+        <item>Osmanlıca Öğretmeni</item>
+        <item>Otel Müdürü</item>
+        <item>Otobüs Şoförü</item>
+        <item>Otoklav Operatörü</item>
+        <item>Otomasyon Mühendisi</item>
+        <item>Otomasyon Teknikeri</item>
+        <item>Otomasyon Teknisyeni</item>
+        <item>Otomotiv Mühendisi</item>
+        <item>Otomotiv Teknikeri</item>
+        <item>Oyun Ablası</item>
+        <item>Oyun Geliştirici</item>
+        <item>Oyun Tasarımcısı</item>
+        <item>Oyun Yazılım Uzmanı</item>
+        <item>Oyuncu</item>
+        <item></item>
+        <item>Öğretim Görevlisi</item>
+        <item>Öğretim Üyesi</item>
+        <item>Öğretmen</item>
+        <item>Ön Büro Elemanı</item>
+        <item>Ön Muhasebe Elemanı</item>
+        <item>Özel Kalem Müdürü</item>
+        <item>Özel Şoför</item>
+        <item></item>
+        <item>Paketleme Mühendisi</item>
+        <item>Paramedik</item>
+        <item>Pasta Ustası</item>
+        <item>Patent Mühendisi</item>
+        <item>Patent Uzmanı</item>
+        <item>Patoloji Teknikeri</item>
+        <item>Patoloji Uzmanı</item>
+        <item>Pazar Araştırma Analisti</item>
+        <item>Pazar Araştırma Uzmanı</item>
+        <item>Pazarlama Analisti</item>
+        <item>Pazarlama Danışmanı</item>
+        <item>Pazarlama Elemanı</item>
+        <item>Pazarlama Genel Müdür Yardımcısı / CMO</item>
+        <item>Pazarlama İletişim Uzmanı</item>
+        <item>Pazarlama Müdürü</item>
+        <item>Pazarlama Uzmanı</item>
+        <item>Pazarlama Yönetici / Yönetmen Yardımcısı</item>
+        <item>Pedagog</item>
+        <item>Pediatri Uzmanı</item>
+        <item>Pedodonti Uzmanı</item>
+        <item>Perfüzyon Teknikeri</item>
+        <item>Perfüzyonist</item>
+        <item>Periyodik Bakım Mühendisi</item>
+        <item>Personel Müdürü</item>
+        <item>Personel Özlük İşleri Uzmanı</item>
+        <item>Personel Sorumlusu</item>
+        <item>Personel Şefi</item>
+        <item>Pestisit Uzmanı</item>
+        <item>Petrofizik Mühendisi</item>
+        <item>Petrol Mühendisi</item>
+        <item>Peyzaj Mimarı</item>
+        <item>Peyzaj Teknikeri</item>
+        <item>Peyzaj Yüksek Mimarı</item>
+        <item>PHP Yazılım Uzmanı</item>
+        <item>Pırlanta Kalitelendirme Elemanı</item>
+        <item>Pilates Eğitmeni</item>
+        <item>Pilot</item>
+        <item>Piyanist</item>
+        <item>Piyano Öğretmeni</item>
+        <item>Pizza Ustası</item>
+        <item>Planlama Elemanı</item>
+        <item>Planlama Müdürü</item>
+        <item>Planlama Mühendisi</item>
+        <item>Planlama Uzmanı</item>
+        <item>Planlama ve Raporlama Uzmanı</item>
+        <item>Plasiyer</item>
+        <item>Plastik Cerrahi Uzmanı</item>
+        <item>Plastik Enjeksiyon Operatörü</item>
+        <item>Pnömatik Mühendisi</item>
+        <item>Podolog</item>
+        <item>Polimer Mühendisi</item>
+        <item>Polimerizasyon Mühendisi</item>
+        <item>Portföy Yönetici / Yönetmen Yardımcısı</item>
+        <item>Pratisyen Hekim</item>
+        <item>Pres Operatörü</item>
+        <item>Prodüktör</item>
+        <item>Profesör Doktor</item>
+        <item>Proje Asistanı</item>
+        <item>Proje Danışmanı</item>
+        <item>Proje Geliştirme Uzmanı</item>
+        <item>Proje Kontrol Mühendisi</item>
+        <item>Proje Koordinatörü</item>
+        <item>Proje Mimarı</item>
+        <item>Proje Müdürü</item>
+        <item>Proje Mühendisi</item>
+        <item>Proje Satış Sorumlusu</item>
+        <item>Proje Sorumlusu</item>
+        <item>Proje Teknikeri</item>
+        <item>Proje Yöneticisi / Yönetmeni</item>
+        <item>Promosyon Uzmanı</item>
+        <item>Promotör</item>
+        <item>Protez Ortez Teknikeri</item>
+        <item>Prototip Mühendisi</item>
+        <item>Prova Mankeni</item>
+        <item>Psikiyatri Uzmanı</item>
+        <item>Psikolog</item>
+        <item>Psikolojik Danışman</item>
+        <item>Psikoterapist</item>
+        <item>Puantör</item>
+        <item>Punch Operatörü</item>
+        <item></item>
+        <item>Radyoloji Hemşiresi</item>
+        <item>Radyoloji Raportörü</item>
+        <item>Radyoloji Teknikeri</item>
+        <item>Radyoloji Teknisyeni</item>
+        <item>Radyoloji Uzmanı</item>
+        <item>Radyoterapi Teknikeri</item>
+        <item>Raporlama Uzmanı</item>
+        <item>Raportör</item>
+        <item>Raylı Sistemler Mühendisi</item>
+        <item>Redaktör</item>
+        <item>Rehber Öğretmen</item>
+        <item>Rehberlik ve Psikolojik Danışman</item>
+        <item>Rejisör</item>
+        <item>Reklam Danışmanı</item>
+        <item>Reklam Müdürü</item>
+        <item>Reklam Satış Temsilcisi</item>
+        <item>Reklam ve Halkla İlişkiler Sorumlusu</item>
+        <item>Reklam Yazarı</item>
+        <item>Renk Analisti</item>
+        <item>Renk Uzmanı</item>
+        <item>Resepsiyonist</item>
+        <item>Resim Öğretmeni</item>
+        <item>Restoran Müdürü</item>
+        <item>Restorasyon Teknikeri</item>
+        <item>Restoratör</item>
+        <item>Reyon Görevlisi</item>
+        <item>RF Planlama Mühendisi</item>
+        <item>RF Tasarım Mühendisi</item>
+        <item>Risk Değerlendirme Uzmanı</item>
+        <item>Risk İzleme Uzmanı</item>
+        <item>Risk Müdürü</item>
+        <item>Risk Mühendisi</item>
+        <item>Risk Uzmanı</item>
+        <item>Risk Yönetim Uzmanı</item>
+        <item>Romatoloji Uzmanı</item>
+        <item>Röntgen Teknikeri</item>
+        <item>Röntgen Teknisyeni</item>
+        <item>Ruhsatlandırma Uzmanı</item>
+        <item>Rusça Öğretmeni</item>
+        <item></item>
+        <item>Saç Bakım Uzmanı</item>
+        <item>Saç Ekim Uzmanı</item>
+        <item>Saç Tasarımcısı</item>
+        <item>Sağlık Memuru</item>
+        <item>Sağlık Personeli</item>
+        <item>Sağlık Teknikeri</item>
+        <item>Sağlık Teknisyeni</item>
+        <item>Saha Destek Elemanı</item>
+        <item>Saha Mühendisi</item>
+        <item>Saha Operasyon Elemanı</item>
+        <item>Saha Satış Elemanı</item>
+        <item>Saha Satış Müdürü</item>
+        <item>Saha Satış Temsilcisi</item>
+        <item>Saha Satış Uzmanı</item>
+        <item>Sanal Gerçeklik Uzmanı</item>
+        <item>Sanat Yönetmeni</item>
+        <item>Santral Memuru</item>
+        <item>SAP Danışmanı</item>
+        <item>SAP Destek Uzmanı</item>
+        <item>SAP HR Danışmanı</item>
+        <item>SAP Proje Yöneticisi</item>
+        <item>SAP Uzmanı</item>
+        <item>Satın Alma Direktörü</item>
+        <item>Satın Alma Elemanı</item>
+        <item>Satın Alma Müdürü</item>
+        <item>Satın Alma Mühendisi</item>
+        <item>Satın Alma Sorumlusu</item>
+        <item>Satın Alma Uzman yardımcısı</item>
+        <item>Satın Alma Uzmanı</item>
+        <item>Satış Danışmanı</item>
+        <item>Satış Destek Uzmanı</item>
+        <item>Satış Direktörü</item>
+        <item>Satış Elemanı</item>
+        <item>Satış Geliştirme Uzmanı</item>
+        <item>Satış Geliştirme Yöneticisi</item>
+        <item>Satış Müdürü</item>
+        <item>Satış Mühendisi</item>
+        <item>Satış Operasyon Müdürü</item>
+        <item>Satış Operasyon Sorumlusu</item>
+        <item>Satış Operasyon Uzmanı</item>
+        <item>Satış Pazarlama Elemanı</item>
+        <item>Satış Pazarlama Müdürü</item>
+        <item>Satış Pazarlama Uzmanı</item>
+        <item>Satış Sorumlusu</item>
+        <item>Satış Temsilcisi</item>
+        <item>Satış Uzmanı</item>
+        <item>Satış ve Pazarlama Direktörü</item>
+        <item>Satış ve Pazarlama Müdürü</item>
+        <item>Satış ve Pazarlama Uzmanı</item>
+        <item>Satranç Öğretmeni</item>
+        <item>Savcı</item>
+        <item>Sayfa Tasarımcısı</item>
+        <item>Sayısal Tasarım Mühendisi</item>
+        <item>Sayman</item>
+        <item>Segment Yöneticisi</item>
+        <item>Sekreter</item>
+        <item>Senarist / Senaryo Yazarı</item>
+        <item>Seramik Mühendisi</item>
+        <item>Seramik Teknikeri</item>
+        <item>Seramik Ustası</item>
+        <item>Serbest Muhasebeci</item>
+        <item>Servis Şoförü</item>
+        <item>Ses Mühendisi</item>
+        <item>Ses Operatörü</item>
+        <item>Ses Teknikeri</item>
+        <item>Ses Teknisyeni</item>
+        <item>Ses Uzmanı</item>
+        <item>Seslendirme Sanatçısı</item>
+        <item>Sevkiyat Müdürü</item>
+        <item>Seyahat Danışmanı</item>
+        <item>Seyis</item>
+        <item>Sınıf Öğretmeni</item>
+        <item>Sigorta Danışmanı</item>
+        <item>Sigorta Eksperi</item>
+        <item>Sigorta Elemanı</item>
+        <item>Sigorta Müdürü</item>
+        <item>Sigorta Prodüktörü</item>
+        <item>Sigorta Uzmanı</item>
+        <item>Sigorta ve Emeklilik Danışmanı</item>
+        <item>Siklotron Mühendisi</item>
+        <item>Siklotron Uzmanı</item>
+        <item>Silahlı Güvenlik Görevlisi</item>
+        <item>Simultane Tercüman</item>
+        <item>Sistem Analisti</item>
+        <item>Sistem Destek Mühendisi</item>
+        <item>Sistem Destek Uzmanı</item>
+        <item>Sistem Geliştirme Uzmanı</item>
+        <item>Sistem Güvenlik Uzmanı</item>
+        <item>Sistem Mühendisi</item>
+        <item>Sistem Uzmanı</item>
+        <item>Sistem ve Network Mühendisi</item>
+        <item>Sistem Yöneticisi / Yönetmeni</item>
+        <item>SMMM Stajyeri</item>
+        <item>Solist</item>
+        <item>Sondaj Mühendisi</item>
+        <item>Sondaj Teknikeri</item>
+        <item>Sondör</item>
+        <item>Sosyal Bilgiler Öğretmeni</item>
+        <item>Sosyal Güvenlik Denetmen Yardımcısı</item>
+        <item>Sosyal Güvenlik Uzmanı</item>
+        <item>Sosyal Hizmet Uzmanı</item>
+        <item>Sosyal Hizmetler Uzmanı</item>
+        <item>Sosyal Medya Asistanı</item>
+        <item>Sosyal Medya Danışmanı</item>
+        <item>Sosyal Medya Direktörü</item>
+        <item>Sosyal Medya Editörü</item>
+        <item>Sosyal Medya Müşteri Temsilcisi</item>
+        <item>Sosyal Medya Uzmanı</item>
+        <item>Sosyal Medya Yöneticisi</item>
+        <item>Sosyal Uygunluk Denetçisi</item>
+        <item>Sosyolog</item>
+        <item>Sous Chef</item>
+        <item>Sörf Eğitmeni</item>
+        <item>Sörveyör</item>
+        <item>Sözleşme Uzmanı</item>
+        <item>Spor Eğitmeni</item>
+        <item>Spor Spikeri</item>
+        <item>Stajyer</item>
+        <item>Stajyer Avukat</item>
+        <item>Stajyer Hemşire</item>
+        <item>Stajyer Öğretmen</item>
+        <item>Statiker</item>
+        <item>STEM Öğretmeni</item>
+        <item>Sterilizasyon Sorumlusu</item>
+        <item>Sterilizasyon Teknisyeni</item>
+        <item>Stil Danışmanı</item>
+        <item>Stilist</item>
+        <item>Stok Kontrol Sorumlusu</item>
+        <item>Strateji ve İş Geliştirme Uzmanı</item>
+        <item>Stratejik Planlama Uzmanı</item>
+        <item>Stratejik Planlama ve İş Geliştirme Müdürü</item>
+        <item>Su Balesi Öğretmeni</item>
+        <item>Su Ürünleri Mühendisi</item>
+        <item>Su Ürünleri Teknikeri</item>
+        <item>Subay</item>
+        <item>Süpervizör</item>
+        <item>Süreç / Proses Geliştirme Yöneticisi</item>
+        <item>Süreç / Proses Mühendisi</item>
+        <item>Süreç / Proses Teknisyeni</item>
+        <item>Sürveyan</item>
+        <item>Sürveyan Teknisyeni</item>
+        <item></item>
+        <item>Şan Öğretmeni</item>
+        <item>Şantiye Müdürü</item>
+        <item>Şantiye Sorumlusu</item>
+        <item>Şantiye Şefi</item>
+        <item>Şarap Uzmanı</item>
+        <item>Şehir Plancısı</item>
+        <item>Şoför / Sürücü</item>
+        <item></item>
+        <item>Tahsilat Uzmanı</item>
+        <item>Tahsildar</item>
+        <item>Takı Tasarımcısı</item>
+        <item>Takım Koçu</item>
+        <item>Tanker Şoförü</item>
+        <item>Tarım Danışmanı</item>
+        <item>Tarih Öğretmeni</item>
+        <item>Tasarım Asistanı</item>
+        <item>Tasarım Elemanı</item>
+        <item>Tasarım Mimarı</item>
+        <item>Tasarım Mühendisi</item>
+        <item>Tasarım Uzmanı</item>
+        <item>Tavan Vinci Operatörü</item>
+        <item>Tedarik Zinciri Direktörü</item>
+        <item>Tedarik Zinciri Müdürü</item>
+        <item>Tedarik Zinciri Uzmanı</item>
+        <item>Tedarik Zinciri Yöneticisi</item>
+        <item>Teğmen</item>
+        <item>Tehlikeli Madde Güvenlik Danışmanı</item>
+        <item>Teknik Çizim Elemanı</item>
+        <item>Teknik Destek Uzmanı</item>
+        <item>Teknik Direktör</item>
+        <item>Teknik Öğretmen</item>
+        <item>Teknik Ressam</item>
+        <item>Teknisyen</item>
+        <item>Teknolog</item>
+        <item>Teknoloji Danışmanı</item>
+        <item>Teknoloji Uzmanı</item>
+        <item>Teknoloji ve Tasarım Öğretmeni</item>
+        <item>Tekstil Mühendisi</item>
+        <item>Tekstil Tasarımcısı</item>
+        <item>Tekstil Teknikeri</item>
+        <item>Teleferik Operatörü</item>
+        <item>Telefon Operatörü</item>
+        <item>Telekomünikasyon Mühendisi</item>
+        <item>Tele-satış Takım Lideri</item>
+        <item>Telsiz Operatörü</item>
+        <item>Tenis Antrenörü</item>
+        <item>Tenis Oyuncusu</item>
+        <item>Terapist</item>
+        <item>Tercüman / Çevirmen</item>
+        <item>Tersane Müdürü</item>
+        <item>Terzi</item>
+        <item>Test Mühendisi</item>
+        <item>Test Otomasyon Mühendisi</item>
+        <item>Test Uzmanı</item>
+        <item>Tıbbi Biyolog</item>
+        <item>Tıbbi Mümessil</item>
+        <item>Tıbbi Satış Mümessili</item>
+        <item>Tıbbi Sekreterlik</item>
+        <item>Tıbbi Tanıtım Sorumlusu</item>
+        <item>Tıbbi Tanıtım Temsilcisi</item>
+        <item>Tıbbi Tekniker</item>
+        <item>Tıbbi Teknolog</item>
+        <item>Tıbbi Tercüman</item>
+        <item>Tıp Doktoru / Hekim</item>
+        <item>Tır Şoförü</item>
+        <item>Ticari Genel Müdür Yardımcısı / CCO</item>
+        <item>Ticari Pazarlama Müdürü</item>
+        <item>Ticari Pazarlama Uzmanı</item>
+        <item>Ticari Pazarlama Yöneticisi</item>
+        <item>TOEFL / IELTS Öğretmeni</item>
+        <item>Toksikolog</item>
+        <item>Tonmaister</item>
+        <item>Topoğraf</item>
+        <item>Trafik Müşaviri</item>
+        <item>Tren Sürücüsü / Vatman</item>
+        <item>Tur Operatörü</item>
+        <item>Tur Rehberi</item>
+        <item>Turquality Uzmanı</item>
+        <item>Tüp Bebek Hemşiresi</item>
+        <item>Türk Dili ve Edebiyatı Öğretmeni</item>
+        <item>Türkçe Öğretmeni</item>
+        <item>Tütün Eksperi</item>
+        <item></item>
+        <item>Uçak Bakım Mühendisi</item>
+        <item>Uçak Bakım Şefi</item>
+        <item>Uçak Bakım Teknisyeni</item>
+        <item>Uçak Emniyet Şefi</item>
+        <item>Uçak Mühendisi</item>
+        <item>Uçak Sistem Mühendisi</item>
+        <item>Uçak Teknisyeni</item>
+        <item>Uçuş Mühendisi</item>
+        <item>Ulaştırma Mühendisi</item>
+        <item>Uluslararası Eğitim Programları Müdürü</item>
+        <item>Uluslararası Eğitim Programları Uzmanı</item>
+        <item>Uluslararası İlişkiler Uzmanı</item>
+        <item>Uluslararası Pazarlama Yöneticisi</item>
+        <item>Uygulama Geliştirme Uzmanı</item>
+        <item>Uyku Teknisyeni</item>
+        <item>Uzman Çavuş</item>
+        <item>Uzman Diyetisyen</item>
+        <item>Uzman Doktor</item>
+        <item>Uzman Psikolog</item>
+        <item>Uzman Yardımcısı</item>
+        <item>Uzun Dönem Stajyer</item>
+        <item></item>
+        <item>Ücretli Öğretmen</item>
+        <item>Üretim Elemanı</item>
+        <item>Üretim Müdürü</item>
+        <item>Üretim Mühendisi</item>
+        <item>Üretim Operatörü</item>
+        <item>Üretim Planlama Müdürü</item>
+        <item>Üretim Planlama Mühendisi</item>
+        <item>Üretim Planlama Sorumlusu</item>
+        <item>Üretim Planlama Uzmanı</item>
+        <item>Üretim Şefi</item>
+        <item>Üretim ve Planlama Mühendisi</item>
+        <item>Üroloji / Bevliye Uzmanı</item>
+        <item>Ürün Geliştirme Mühendisi</item>
+        <item>Ürün Geliştirme Uzmanı</item>
+        <item>Ürün Müdürü</item>
+        <item>Ürün Tasarımcısı</item>
+        <item>Ürün Uzmanı</item>
+        <item>Ürün Yöneticisi / Yönetmeni</item>
+        <item></item>
+        <item>Vali</item>
+        <item>Validasyon Mühendisi</item>
+        <item>Vardiya Amiri</item>
+        <item>Vardiya Müdürü</item>
+        <item>Vekil Öğretmen</item>
+        <item>Vergi Analisti</item>
+        <item>Vergi Danışmanı</item>
+        <item>Vergi Denetçisi</item>
+        <item>Vergi Denetmen Yardımcısı</item>
+        <item>Vergi Müfettiş Yardımcısı</item>
+        <item>Vergi Müfettişi</item>
+        <item>Vergi Uzmanı</item>
+        <item>Veri Ambarı Analisti</item>
+        <item>Veri Ambarı Tasarımcısı</item>
+        <item>Veri Ambarı Uzmanı</item>
+        <item>Veri Analisti</item>
+        <item>Veri Analiz Uzmanı</item>
+        <item>Veri Bilimci</item>
+        <item>Veri Giriş Elemanı</item>
+        <item>Veri Giriş Operatörü</item>
+        <item>Veri Giriş Uzmanı</item>
+        <item>Veri Hazırlama ve Kontrol İşletmeni</item>
+        <item>Veri Madenciliği Uzmanı</item>
+        <item>Veri Merkezi Mühendisi</item>
+        <item>Veri Merkezi Uzmanı</item>
+        <item>Veri Merkezi Yöneticisi</item>
+        <item>Veri Mimarı</item>
+        <item>Veri Mühendisi</item>
+        <item>Veri Tabanı Programcısı</item>
+        <item>Veri Tabanı Uzmanı</item>
+        <item>Veri Tabanı Yöneticisi</item>
+        <item>Verimlilik Müdürü</item>
+        <item>Verimlilik Mühendisi</item>
+        <item>Verimlilik Uzmanı</item>
+        <item>Veritabanı Mühendisi</item>
+        <item>Veteriner Hekim</item>
+        <item>Veznedar</item>
+        <item>Video Editörü</item>
+        <item>Videographer</item>
+        <item>Vinç Operatörü</item>
+        <item>Vize Danışmanı</item>
+        <item>Vokalist</item>
+        <item>Voleybol Antrenörü</item>
+        <item></item>
+        <item>Web Arayüz Geliştirici</item>
+        <item>Web Master</item>
+        <item>Web Önyüz Geliştirme Uzmanı</item>
+        <item>Web Programcısı</item>
+        <item>Web Tasarım Uzmanı</item>
+        <item>Web Yazılım Uzmanı</item>
+        <item></item>
+        <item>Yakın Koruma</item>
+        <item>Yalın Üretim Mühendisi</item>
+        <item>Yalın Üretim Uzmanı</item>
+        <item>Yapay Zeka Mühendisi</item>
+        <item>Yapı Denetim Mühendisi</item>
+        <item>Yapım Koordinatörü</item>
+        <item>Yapısal Analiz Mühendisi</item>
+        <item>Yapısal Tasarım Mühendisi</item>
+        <item>Yarbay</item>
+        <item>Yardımcı Doçent Doktor / Yrd Doç</item>
+        <item>Yardımcı Öğretmen</item>
+        <item>Yardımcı Sağlık Personeli</item>
+        <item>Yaşam Koçu</item>
+        <item>Yat Kaptanı</item>
+        <item>Yatırım Danışmanı</item>
+        <item>Yatırım Uzmanı</item>
+        <item>Yayın Koordinatörü</item>
+        <item>Yayın Yönetmeni</item>
+        <item>Yazı İşleri Müdürü</item>
+        <item>Yazılım Danışmanı</item>
+        <item>Yazılım Destek Mühendisi</item>
+        <item>Yazılım Destek Uzmanı</item>
+        <item>Yazılım Geliştirme Müdürü</item>
+        <item>Yazılım Geliştirme Mühendisi</item>
+        <item>Yazılım Geliştirme Takım Lideri</item>
+        <item>Yazılım Geliştirme Uzmanı</item>
+        <item>Yazılım Mimarı</item>
+        <item>Yazılım Müdürü</item>
+        <item>Yazılım Mühendisi</item>
+        <item>Yazılım Stajyeri</item>
+        <item>Yazılım Takım Lideri</item>
+        <item>Yazılım Test Mühendisi</item>
+        <item>Yazılım Test Takım Lideri</item>
+        <item>Yazılım Test Uzmanı</item>
+        <item>Yazılım Uzman Yardımcısı</item>
+        <item>Yazılım Uzmanı</item>
+        <item>Yedek Parça Lojistik Müdürü</item>
+        <item>Yelken Eğitmeni</item>
+        <item></item>
+        <item>Yeminli Mali Müşavir</item>
+        <item>Yeminli Tercüman</item>
+        <item>Yeni Doğan Yoğun Bakım Hemşiresi</item>
+        <item>Yenilenebilir Enerji Mühendisi</item>
+        <item>Yer Hizmetleri Memuru</item>
+        <item>Yiyecek İçecek Müdürü</item>
+        <item>Yolcu Hizmetleri Memuru</item>
+        <item>Yönetici Asistanı</item>
+        <item>Yönetim Danışmanı</item>
+        <item>Yönetim Kurulu Başkanı</item>
+        <item>Yönetim Sistemleri Uzmanı</item>
+        <item>Yönetmen Yardımcısı</item>
+        <item>Yurt Müdürü</item>
+        <item>Yurtdışı Eğitim Danışmanı</item>
+        <item>Yüksek Gıda Mühendisi</item>
+        <item>Yüksek Hemşire</item>
+        <item>Yüksek İnşaat Mühendisi</item>
+        <item>Yüksek Kimya Mühendisi</item>
+        <item>Yüksek Kimyager</item>
+        <item>Yüksek Mimar</item>
+        <item>Yüzbaşı</item>
+        <item></item>
+        <item>Zabıt Katibi</item>
+        <item>Zabıta</item>
+        <item>Zırhlı Araç Şoförü</item>
+        <item>Zihinsel Engelliler Öğretmeni</item>
+        <item>Zincir Mağazalar Müdür Yardımcısı</item>
+        <item>Zincir Mağazalar Müdürü</item>
+        <item>Ziraat Mühendisi</item>
+        <item>Ziraat Teknikeri</item>
+        <item>Ziraat Teknisyeni</item>
+        <item>Ziraat Yüksek Mühendisi</item>
+        <item>Zirai Danışman</item>
+        <item>Zirai Satın Alma Uzmanı</item>
+        <item>Zooteknist</item>
+        <item>Zumba Eğitmeni</item>
+        <item></item>
+        <item>3D Animatör</item>
+        <item>3D Çizim Eğitmeni</item>
+        <item>3D Modelleme Uzmanı</item>
+        <item>3D Ölçüm Operatörü</item>
+        <item>3D Tasarım Sorumlusu</item>
+
+    </string-array>
+</resources>

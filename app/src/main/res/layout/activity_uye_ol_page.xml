@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009788"
+    tools:context=".UyeOlPage">
+
+    <EditText
+        android:id="@+id/signUpEmail"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="180dp"
+        android:background="@drawable/buttonshape"
+        android:ems="10"
+        android:hint="Mail"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:textColor="#050505" />
+
+    <EditText
+        android:id="@+id/signUpPassword"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="280dp"
+        android:background="@drawable/buttonshape"
+        android:ems="10"
+        android:hint="Sifre"
+        android:inputType="textPassword"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/uyeolbutonu"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/buttonshape"
+        android:text="Üye Ol"
+        android:textAllCaps="false" />
+
+
+    <Button
+        android:id="@+id/txtgirisyap"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="460dp"
+        android:background="@drawable/buttonshape"
+        android:text="Üye Girişi"
+        android:textAllCaps="false" />
+
+
+
+</RelativeLayout>
