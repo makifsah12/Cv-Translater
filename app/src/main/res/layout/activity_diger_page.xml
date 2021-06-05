@@ -1,169 +1,381 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<ScrollView
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#009788"
-    tools:context=".DigerPage">
+    xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <EditText
-        android:id="@+id/bilgisayarbilgisi"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="40dp"
-        android:background="@drawable/buttonshape"
-        android:hint="Bilgisayar Bilgisi"
-        android:textAlignment="center"
-        android:textSize="10sp" />
-
-    <Spinner
-        android:id="@+id/yabancidil1"
-        android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="100dp"
-        android:background="@drawable/spinnerbackground"
-        android:paddingBottom="13dp"
-        android:textColor="@color/colorPrimaryDark" />
-
-    <Spinner
-        android:id="@+id/yabancidilseviye1"
-        android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="160dp"
-        android:background="@drawable/spinnerbackground"
-        android:paddingBottom="13dp"
-        android:textColor="@color/colorPrimaryDark" />
-
-    <Spinner
-        android:id="@+id/yabancidilseviye2"
-        android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="220dp"
-        android:background="@drawable/spinnerbackground"
-        android:paddingBottom="13dp"
-        android:textColor="@color/colorPrimaryDark" />
-
-
-    <Spinner
-        android:id="@+id/yabancidil2"
-        android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="280dp"
-        android:background="@drawable/spinnerbackground"
-        android:paddingBottom="13dp"
-        android:textColor="@color/colorPrimaryDark" />
-
-    <Spinner
-        android:id="@+id/hobiler1"
-        android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="340dp"
-        android:background="@drawable/spinnerbackground"
-        android:paddingBottom="13dp"
-        android:textColor="@color/colorPrimaryDark" />
-
-    <Spinner
-        android:id="@+id/hobiler2"
-        android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="400dp"
-        android:background="@drawable/spinnerbackground"
-        android:paddingBottom="13dp"
-        android:textColor="@color/colorPrimaryDark" />
-
-    <EditText
-        android:id="@+id/referanslar"
-        android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="460dp"
-        android:background="@drawable/buttonshape"
-        android:hint="Referanslar"
-        android:textAlignment="center"
-        android:textSize="10sp" />
-
-    <EditText
-        android:id="@+id/sertifikalar"
-        android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="520dp"
-        android:background="@drawable/buttonshape"
-        android:hint="Sertifikalar"
-        android:textAlignment="center"
-        android:textSize="10sp" />
-
-    <Button
-        android:id="@+id/btnKaydet4"
-        android:layout_width="match_parent"
-        android:layout_height="40dp"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="580dp"
-        android:background="@drawable/buttonshape_small"
-        android:text="✓"
-        android:textAllCaps="false"
-        android:textSize="31sp" />
-
-    <TextView
-        android:id="@+id/yabancidiltext1"
-        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView"
-        android:visibility="gone" />
+        android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/yabancidiltext2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView"
-        android:visibility="gone" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:id="@+id/layout1"
+            android:weightSum="9"
+            android:orientation="horizontal">
 
-    <TextView
-        android:id="@+id/hobitext1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView"
-        android:visibility="gone" />
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
 
-    <TextView
-        android:id="@+id/hobitext2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView"
-        android:visibility="gone" />
+            <EditText
+                android:id="@+id/bilgisayarbilgisi"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/buttonshape"
+                android:hint="Bilgisayar Bilgisi"
+                android:textAlignment="center"
+                android:textSize="10sp" />
 
-    <TextView
-        android:id="@+id/seviye1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView"
-        android:visibility="gone" />
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
 
-    <TextView
-        android:id="@+id/seviye2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView"
-        android:visibility="gone" />
+        </LinearLayout>
 
 
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:id="@+id/layout2"
+            android:weightSum="9"
+            android:orientation="horizontal">
 
-</RelativeLayout>
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <Spinner
+                android:id="@+id/yabancidil1"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/spinnerbackground"
+                android:paddingBottom="13dp"
+                android:textColor="@color/colorPrimaryDark" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:id="@+id/layout3"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <Spinner
+                android:id="@+id/yabancidilseviye1"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/spinnerbackground"
+                android:paddingBottom="13dp"
+                android:textColor="@color/colorPrimaryDark" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:id="@+id/layout4"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <Spinner
+                android:id="@+id/yabancidilseviye2"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/spinnerbackground"
+                android:paddingBottom="13dp"
+                android:textColor="@color/colorPrimaryDark" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:id="@+id/layout5"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <Spinner
+                android:id="@+id/yabancidil2"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/spinnerbackground"
+                android:paddingBottom="13dp"
+                android:textColor="@color/colorPrimaryDark" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:id="@+id/layout6"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <Spinner
+                android:id="@+id/hobiler1"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/spinnerbackground"
+                android:paddingBottom="13dp"
+                android:textColor="@color/colorPrimaryDark" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:id="@+id/layout7"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <Spinner
+                android:id="@+id/hobiler2"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/spinnerbackground"
+                android:paddingBottom="13dp"
+                android:textColor="@color/colorPrimaryDark" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:id="@+id/layout8"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <EditText
+                android:id="@+id/referanslar"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/buttonshape"
+                android:hint="Referanslar"
+                android:textAlignment="center"
+                android:textSize="10sp" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:id="@+id/layout9"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <EditText
+                android:id="@+id/sertifikalar"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/buttonshape"
+                android:hint="Sertifikalar"
+                android:textAlignment="center"
+                android:textSize="10sp" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:id="@+id/layout11"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="6.5">
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/btnKaydet4"
+                android:layout_weight="1.5"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/buttonshape_small"
+                android:text="✓"
+                android:textAllCaps="false"
+                android:textSize="30sp" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/yabancidiltext1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/yabancidiltext2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/hobitext1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/hobitext2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/seviye1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/seviye2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:visibility="gone" />
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>
+
+
+

@@ -1,47 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+
+<ScrollView
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#009788"
-    tools:context=".UyeGirisiPage">
+    xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <EditText
-        android:id="@+id/loginEmail"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="60dp"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="180dp"
-        android:background="@drawable/buttonshape"
-        android:ems="10"
-        android:hint="Mail"
-        android:inputType="textPersonName"
-        android:textAlignment="center" />
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
 
-    <EditText
-        android:id="@+id/loginPassword"
-        android:layout_width="match_parent"
-        android:layout_height="60dp"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="280dp"
-        android:background="@drawable/buttonshape"
-        android:ems="10"
-        android:hint="Şifre"
-        android:inputType="textPassword"
-        android:textAlignment="center" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="250dp"
+            android:weightSum="9"
+            android:orientation="horizontal">
 
-    <Button
-        android:id="@+id/girisyapbutonu"
-        android:layout_width="match_parent"
-        android:layout_height="60dp"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="380dp"
-        android:background="@drawable/buttonshape"
-        android:text="Giriş Yap"
-        android:textAllCaps="false" />
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
 
-</RelativeLayout>
+            <EditText
+                android:id="@+id/loginEmail"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:background="@drawable/buttonshape"
+                android:ems="10"
+                android:hint="Mail"
+                android:inputType="textPersonName"
+                android:textAlignment="center" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <EditText
+                android:id="@+id/loginPassword"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:background="@drawable/buttonshape"
+                android:ems="10"
+                android:hint="Şifre"
+                android:inputType="textPassword"
+                android:textAlignment="center" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/girisyapbutonu"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:background="@drawable/buttonshape"
+                android:text="Giriş Yap"
+                android:textAllCaps="false" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

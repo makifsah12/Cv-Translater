@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <ScrollView
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -8,289 +7,362 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:weightSum="3"
-        android:orientation="vertical"
-        android:layout_height="match_parent">
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_marginTop="20dp"
-            android:layout_height="match_parent">
-
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_marginTop="20dp"
-            android:layout_height="match_parent">
-
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_marginTop="20dp"
-            android:layout_height="match_parent">
-
-        </RelativeLayout>
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:orientation="horizontal"
-            android:weightSum="11"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:id="@+id/layout1"
+            android:weightSum="9"
+            android:orientation="horizontal">
 
             <RelativeLayout
-                android:layout_width="match_parent"
-                android:layout_weight="3.5"
-                android:layout_height="match_parent">
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="4">
             </RelativeLayout>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circlefotoekle"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:background="@drawable/insan" />
 
             <RelativeLayout
-                android:layout_width="match_parent"
-                android:layout_weight="4"
-                android:layout_height="match_parent">
-
-                <de.hdodenhof.circleimageview.CircleImageView
-                    android:id="@+id/circlefotoekle"
-                    android:background="@drawable/insan"
-                    android:layout_width="match_parent"
-                    android:layout_height="50dp"
-                    android:scaleX="1"
-                    android:scaleY="1"
-                    />
-
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="4">
             </RelativeLayout>
-
-            <RelativeLayout
-                android:layout_width="match_parent"
-                android:layout_weight="4"
-                android:layout_height="match_parent">
-            </RelativeLayout>
-
-
 
         </LinearLayout>
 
-
-
-        <RelativeLayout
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_marginTop="20dp"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:id="@+id/layout2"
+            android:weightSum="9"
+            android:orientation="horizontal">
 
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_height="match_parent">
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
 
             <EditText
                 android:id="@+id/ad1"
-                android:layout_width="match_parent"
+                android:layout_weight="7"
+                android:layout_width="0dp"
                 android:layout_height="40dp"
-                android:layout_marginLeft="50dp"
-                android:layout_marginRight="50dp"
                 android:background="@drawable/buttonshape"
                 android:hint="Ad"
                 android:textAlignment="center"
                 android:textSize="10sp" />
 
-        </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
 
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_marginTop="20dp"
-            android:layout_height="match_parent">
-        </RelativeLayout>
+        </LinearLayout>
 
-        <RelativeLayout
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:id="@+id/layout3"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
 
             <EditText
                 android:id="@+id/soyad1"
-                android:layout_width="match_parent"
+                android:layout_weight="7"
+                android:layout_width="0dp"
                 android:layout_height="40dp"
-                android:layout_marginLeft="50dp"
-                android:layout_marginRight="50dp"
                 android:background="@drawable/buttonshape"
                 android:hint="Soyad"
                 android:textAlignment="center"
                 android:textSize="10sp" />
 
-        </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
 
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_marginTop="20dp"
-            android:layout_height="match_parent">
-        </RelativeLayout>
+        </LinearLayout>
 
-        <RelativeLayout
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:id="@+id/layout4"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
 
             <EditText
                 android:id="@+id/adres1"
-                android:layout_width="match_parent"
+                android:layout_weight="7"
+                android:layout_width="0dp"
                 android:layout_height="40dp"
-                android:layout_marginLeft="50dp"
-                android:layout_marginRight="50dp"
                 android:background="@drawable/buttonshape"
                 android:hint="Adres"
                 android:textAlignment="center"
                 android:textSize="10sp" />
 
-        </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
 
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_marginTop="20dp"
-            android:layout_height="match_parent">
-        </RelativeLayout>
+        </LinearLayout>
 
-        <RelativeLayout
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:id="@+id/layout5"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
 
             <EditText
                 android:id="@+id/telefon1"
-                android:layout_width="match_parent"
+                android:layout_weight="7"
+                android:layout_width="0dp"
                 android:layout_height="40dp"
-                android:layout_marginLeft="50dp"
-                android:layout_marginRight="50dp"
                 android:background="@drawable/buttonshape"
                 android:hint="Telefon"
                 android:textAlignment="center"
                 android:textSize="10sp" />
 
-        </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
 
-        <RelativeLayout
+        </LinearLayout>
+
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_marginTop="20dp"
-            android:layout_height="match_parent">
-        </RelativeLayout>
-
-        <EditText
-            android:id="@+id/dogumyerivetarihi1"
-            android:layout_width="match_parent"
-            android:layout_height="40dp"
-            android:layout_marginLeft="50dp"
-            android:layout_marginRight="50dp"
-            android:background="@drawable/buttonshape"
-            android:hint="Dogum Yeri Ve Tarihi"
-            android:textAlignment="center"
-            android:textSize="10sp" />
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_marginTop="20dp"
-            android:layout_height="match_parent">
-        </RelativeLayout>
-
-        <EditText
-            android:id="@+id/email1"
-            android:layout_width="match_parent"
-            android:layout_height="40dp"
-            android:layout_marginLeft="50dp"
-            android:layout_marginRight="50dp"
-            android:background="@drawable/buttonshape"
-            android:hint="Mail "
-            android:textAlignment="center"
-            android:textSize="10sp" />
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_marginTop="20dp"
-            android:layout_height="match_parent">
-        </RelativeLayout>
-
-        <EditText
-            android:id="@+id/ehliyet1"
-            android:layout_width="match_parent"
-            android:layout_height="40dp"
-            android:layout_marginLeft="50dp"
-            android:layout_marginRight="50dp"
-            android:background="@drawable/buttonshape"
-            android:hint="Ehliyet"
-            android:textAlignment="center"
-            android:textSize="10sp" />
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_marginTop="20dp"
-            android:layout_height="match_parent">
-        </RelativeLayout>
-
-        <Spinner
-            android:id="@+id/medenidurum1"
-            android:layout_width="match_parent"
-            android:layout_height="40dp"
-            android:layout_marginLeft="50dp"
-            android:layout_marginRight="50dp"
-            android:background="@drawable/spinnerbackground"
-            android:paddingBottom="13dp"
-            android:textAlignment="center"
-            android:textColor="@color/colorPrimaryDark" />
-
-        <EditText
-            android:id="@+id/medenidurum2"
-            android:layout_width="match_parent"
-            android:layout_height="40dp"
-            android:background="@drawable/buttonshape"
-            android:hint="medenidurum"
-            android:textAlignment="center"
-            android:textSize="10sp"
-            android:visibility="invisible" />
-
-        <RelativeLayout
-            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:layout_alignParentBottom="true">
+            android:layout_marginTop="40dp"
+            android:id="@+id/layout6"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <EditText
+                android:id="@+id/dogumyerivetarihi1"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/buttonshape"
+                android:hint="Dogum Yeri Ve Tarihi"
+                android:textAlignment="center"
+                android:textSize="10sp" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:id="@+id/layout7"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <EditText
+                android:id="@+id/email1"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/buttonshape"
+                android:hint="Mail "
+                android:textAlignment="center"
+                android:textSize="10sp" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:id="@+id/layout8"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <EditText
+                android:id="@+id/ehliyet1"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/buttonshape"
+                android:hint="Ehliyet"
+                android:textAlignment="center"
+                android:textSize="10sp" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:id="@+id/layout9"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <Spinner
+                android:id="@+id/medenidurum1"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/spinnerbackground"
+                android:paddingBottom="13dp"
+                android:textAlignment="center"
+                android:textColor="@color/colorPrimaryDark" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:id="@+id/layout10"
+            android:weightSum="9"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
 
             <Button
                 android:id="@+id/btnKaydet"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_marginLeft="40dp"
-                android:layout_marginTop="20dp"
-                android:layout_marginRight="40dp"
-                android:layout_marginBottom="20dp"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
                 android:background="@drawable/buttonshape_small"
                 android:text="✓"
                 android:textAllCaps="false"
                 android:textSize="30sp" />
 
-        </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
 
-        <RelativeLayout
+        </LinearLayout>
+
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_weight="1"
-            android:layout_marginTop="20dp"
-            android:layout_height="match_parent">
-        </RelativeLayout>
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:id="@+id/layout11"
+            android:weightSum="9"
+            android:orientation="horizontal">
 
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+            <EditText
+                android:id="@+id/medenidurum2"
+                android:layout_weight="7"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/buttonshape"
+                android:hint="medenidurum"
+                android:textAlignment="center"
+                android:textSize="10sp"
+                android:visibility="gone" />
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+
+        </LinearLayout>
 
     </LinearLayout>
 
-
-
 </ScrollView>
+
+
 

@@ -10,6 +10,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.Spinner;
 import android.widget.Toast;
@@ -36,7 +37,7 @@ public class IsPage extends AppCompatActivity {
 
     Button btnKaydet2 , btnEkstraSirket;
 
-    RelativeLayout extraLayout1, extraLayout2 , extraLayout3;
+    LinearLayout extraLayout1, extraLayout2 , extraLayout3;
 
     private FirebaseAuth auth2;
 
